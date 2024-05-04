@@ -1,0 +1,954 @@
+Abstract.
+
+The paper aims to cast light on the kind of proof involved in central transcen-
+dental arguments. It is suggested that some of the difficulty associated with
+such arguments may result from the tendency to construe them simply as artic-
+ulating relations between concepts or propositional contents. A different
+construal, connected with phenomenological description, is outlined, as a way
+of bringing out the force of these arguments. It is suggested that it can be fruit-
+ful to think in terms of this construal in understanding some of Kant’s tran-
+scendental proofs. The recommended construal also helps to understand the
+nature of the link between transcendental arguments and transcendental
+idealism.
+
+The concern in what follows is with what we should understand transcen-
+dental arguments to be. At issue is the
+
+kind
+
+ of proof that is involved in
+central transcendental arguments. I do not mean to suggest that only one
+answer to the question should be possible, or that for any answer to count
+as adequate it should fit everything that might reasonably be identified as a
+transcendental argument. Transcendental arguments have been around for
+too long to expect anything quite so tidy. The aim is rather to identify an
+answer that fits core transcendental arguments: the sort of answer that
+might have constituted a neater fit had the notion of a transcendental argu-
+meant not enjoyed such a long and unfocussed history since Kant.
+
+Part 1: The Conceptual Construal of Transcendental Arguments.
+
+There is common agreement, at least in general terms, about what
+transcendental arguments purport to do: they start from premisses that
+are so rudimentary and indisputable that the interlocutor, and specifically
+the sceptic, cannot fail to accept them, then by a series of valid moves
+they yield a conclusion that is precisely of the sort that the sceptic did question. Thus the sceptic must concede that the sceptical possibility turns
+out to be incompatible with other commitments that the sceptic cannot
+but hold.
+How transcendental arguments do this is less clear. A thumbnail sketch
+might tell us that they reveal presuppositional relations. Many of those who
+talk about presuppositions here also talk of necessary conditions. The ques-
+tion is, what is meant by ‘a necessary condition’, or ‘presupposition’, the use
+of which is so common in discussions of Kant’s transcendental progress in
+particular?
+Frequently, these relations are thought to hold between concepts, or prop-
+ositions. To some extent this construal may derive from some of Kant’s own
+formulations. Because of his transcendental idealism, he allows himself to
+use terms like ‘representation’ (
+Vorstellung
+) in two ways,
+
+ and insensitivity
+to this can make it seem that Kant is talking only of presuppositions between
+empirical representations; specifically, between an individual’s proposi-
+tional contents. The tendency towards seeing transcendental arguments as
+concerned with relations between broadly linguistic representations was
+further encouraged in the not too distant past by the linguistic turn and –
+more specifically – by the predominance of conceptual schemes.
+
+ There are
+various problems with this. But for present purposes the significant draw-
+back to concentration on conceptual schemes in approaching transcendental
+arguments is that it reinforces the view that transcendental arguments are
+concerned with
+
+conceptual structures
+
+, hived off from objects of experience,
+rather than with the
+
+experienced objects
+
+ themselves (however conceptual
+that experience might be). There has thus been a fairly ubiquitous trend to
+construe transcendental arguments as involving relations of presupposition
+specifically of a conceptual nature.
+
+I hope to bring out that the retreat from experienced objects to concepts
+in fact results in missing the key to understanding transcendental argu-
+ments.
+
+ Indeed, the idea is that once their nature is properly grasped, the
+modern practice of referring to them as transcendental
+
+arguments
+
+ might be
+thought to be misleading.
+
+Part 2: The Problem.
+
+We ought to be clear about the tension between the two explanations –
+roughly, of
+
+what
+
+ transcendental arguments do, and of
+
+how
+
+ they do it – that
+emerges if the relation of presupposition or necessary condition in play is
+understood in terms of
+
+logical entailment
+
+ or
+
+deductive inference
+
+. Such
+construals cannot capture the kind of genuine increase in knowledge
+claimed to be involved in transcendental arguments. Unless the sceptic is of
+no interest whatsoever, the conclusion of the transcendental argument is a
+substantial statement, one that says more than the premiss(es): the move
+from premisses to conclusion is, we might say,
+
+synthetic
+
+. But a deductive
+
+inference from premisses to conclusion could not in itself be responsible
+for the addition of substantive content along the way. Making implicit logi-
+cal entailment explicit may, to put it in Kant’s terms, increase our explica-
+tive knowledge, but we are looking for expansive or ampliative
+knowledge.
+
+ There must then be some point at which the process of simple
+deductive inference is disrupted, and a synthetic or ampliative move is
+made.
+This ampliative step could be presented either as a move from one line of
+the argument to the next, or as a move of hypothetical form internal to a
+given line. We can take these as notational variants for one and the same
+move. For simplicity, I will stick to the latter form in what follows.
+The tension arises when we ask how the truth of the proposition express-
+ing the ampliative move is established. It would seem
+
+prima facie
+
+ that it
+cannot be established empirically (a posteriori). The starting propositions of
+effective transcendental arguments are certainly contingent – for example,
+that I have different experiences, that I experience change, or that I am self-
+conscious. These are clearly contingent and empirically established, but
+they are so basic that they cannot be reasonably denied. The question is,
+what is the nature of the less obvious moves that come later, en route to the
+substantive conclusion? If a proposition expressive of such a move is to be
+genuinely informative or expansive in relation to the premisses, then its
+truth must be established in some way other than by logical entailment from
+preceding steps. But if it is merely an empirically verified statement, it is not
+clear how it would be immune from doubt. What transcendental arguments
+require of such propositions is that they be
+
+genuinely informative
+
+, and yet
+not be
+
+contingent
+
+.
+The question is, then, what kind of truths comprise these central steps in
+a transcendental argument, given that they cannot be based either on mean-
+ings alone or on contingent observation. This question is just Kant’s guiding
+question about how synthetic a priori judgements are possible. It is clear
+that whatever else they do, transcendental arguments are supposed to
+deliver just such knowledge.
+
+Part 3: The General Shape of Transcendental Arguments.
+
+This is the point that we have reached: it would seem that in every successful
+transcendental argument there must be at least one genuinely ampliative or
+synthetic step, which given its significance cannot simply be assumed (on
+pain of the argument being question-begging against the sceptic), and which
+– since it says more than any of the given premisses – cannot be established
+deductively in the course of the argument. Yet it must be established a priori
+if it is to be assured immunity to doubt.
+Let one line expressive of such a step be the move from
+
+q
+
+ to
+
+r
+
+ in the
+following schema. Where
+
+p
+
+ is a premiss the sceptic cannot fail to accept, and
+
+s
+
+ is a prop-
+osition the sceptic typically doubts. For simplicity the schema depicts
+the transcendental argument as an extended
+
+modus ponens
+
+ argument
+form, but obviously it need not take precisely that form.
+
+A brief look at some examples of transcendental arguments will reveal
+the kinds of moves that are in question. We can find such propositions
+as follows.
+
+If experience of succession is to be possible, there must be something
+that is invariant.
+If experience of change is to be possible, the empirical world must
+abide by causality.
+If experience of items as distinct from me and from one another is
+to be possible, they must be located in a unified spatio-temporal
+world.
+If self-awareness is to arise, I must recognize others as themselves
+persons who (can) recognize me.
+
+The moves in question can be represented by material implication; and if
+those conditionals can be taken as true, the arguments in which they figure
+would be valid. But that leaves open the question of how they are estab-
+lished to be true. What kind of move could be involved here in each case,
+such as would render these crucial propositions
+
+synthetic
+
+ and yet such that
+their truth can be established a priori?
+The suggestion I want to explore accepts that, within the confines of the
+valid deductive argument, the propositions in question must be regarded as
+assumed. These propositions cannot be established to be true as long as they
+are considered simply as articulating conceptual relations or relations
+between propositional contents (although what is established can be described
+
+ at that level). Confinement to the grasp of the bare conceptual or
+propositional content will capture what is being said, but not the a priori
+ground for its being true. Securing the latter requires shifting from the
+conceptual level to something like the phenomenological level, the level of
+experience. Only so can the grounds for the truth of the transcendental
+claim be grasped. At that level we stand to secure an a priori grasp of the
+primary ampliative move, a move that the material implication at the
+propositional level merely shadows.
+But saying only that the central move must be understood phenomeno-
+logically rather than conceptually will not further the discussion. It threat-
+ens to be a mere return to a posteriori grounding. We need to be clear what
+that descent from the merely conceptual level amounts to.
+
+Part 4: Situated Thoughts.
+
+The ampliative step involved is often gestured towards by talk of identifying
+‘conditions of possibility’: it can be said that in the above schema
+
+r
+
+ is a condi-
+tion of the possibility of
+
+q
+
+. But mere talk of conditions of possibility is too
+vague. It could be taken to mean no more than semantic conditions for the
+possibility of a given concept making sense, which would simply take us
+back towards the notion of conceptual presupposition. We get closer to a
+relevant notion, I think, in Allison’s talk of an
+
+epistemic condition
+
+ – a condi-
+tion for the possibility of knowledge, or of experience. However, Allison
+does not develop this notion in connection with a discussion of transcenden-
+tal arguments, and does not say much about it: ‘Even though this notion is
+central to Kant’s whole transcendental enterprise, the fact that he never
+explicitly deals with it makes it difficult, if not impossible, to define in any
+precise way.’
+
+ Allison says that an epistemic condition is one ‘that is neces-
+sary for the representation of an object or an objective state of affairs.’
+
+ And
+it is supposed to be distinct from a
+
+psychological
+
+ condition, and from an
+
+ontological
+
+ condition.
+
+ The idea is that there is a set of epistemic conditions
+of the possibility of human experience of things – the categories and the
+forms of space and time constitute this set – and these conditions determine
+the way in which any objectual experience we may have will be structured.
+There is in fact a question about just how distinct epistemic conditions
+can be from psychological conditions. Relative paucity of detail aside, what
+Allison says in passing about epistemic conditions – e.g. that they are
+‘conditions that determine what can count as an object for the human
+mind’
+
+ – seems consistent with (although it does not entail) the view that
+they originate in a substantive body of cognitive structures essential to the
+human mind. Merely insisting on the non-contingency of this cognitive
+equipment would not help to distinguish epistemic from psychological
+conditions. And it may be better to insist only that for something to count
+as an epistemic condition it should be so construed as not to rest on any specific cognitive apparatus to which alternatives are comprehensible.
+What we need then is to secure a handle on the notion of an epistemic
+condition that does not draw its legitimacy from any particular doctrine of
+cognitive or psychological structures.
+
+
+To set out the relevant method of proof of the synthetic transitions in
+question, and to understand better the notion of an epistemic condition, it
+will help to introduce the notion of a
+
+situated thought
+
+. In saying of a thought
+that it is
+
+situated
+
+, I mean that it is construed as being the thought that one
+would have
+
+from a particular point
+
+ within a framework, the content of which
+is informed by it being grasped as if from that perspective. It is not bare
+propositional content considered as if from nowhere, but is rather informed
+by being phenomenologically embedded and directed. In saying that what
+is so situated is a
+
+thought
+
+, I mean to distinguish it from mere phenomeno-
+logical or perceptual experience. It is distinguished in two ways that are
+important here. The first is as follows. Any experience must be internally
+structured, or articulated, on pain of it not qualifying as an experience at all:
+without that articulation, sufficient to distinguish one type of experience
+from another, there would not be anything it is like for the experiencing
+subject to undergo it.
+
+ But saying that experience must be articulated is not
+the same as saying that it must be linguistically articulated, or indeed linguis-
+tically articulable by the subject in question; it is not even to say that that
+articulation is fully cognitive. Part of the point of talking of a situated
+
+thought
+
+ is precisely to focus on that articulation, and to make it cognitively
+salient in a way that it might not be in a brute experience. Second, a situated
+
+thought
+
+ differs from the corresponding experience in that the situated
+thought does not require that the subject actually be situated – only that he
+approximates in thought to what would be delivered up to him if he were so
+situated. We might put this by saying that the situated thought is phenome-
+nologically informed without itself being a phenomenological experience.
+In this respect the situated thought can be considered to fall between, on
+the one hand, the bare propositional content and, on the other, an experi-
+ence the content of which is expressed by that propositional articulation. It
+falls short of actually being an
+
+experience
+
+; it is rather a matter of represent-
+ing
+
+in thought
+
+ a situated construal of a propositional content: considering
+what it would be like to be so situated as to have an experience of that
+content. Importantly, establishing the validity of a transcendental proof
+requires only that we have the situated thought, not that we actually have
+an experience that instantiates the situated thought.
+
+ For transcendental
+proof it is enough that we make the move in thought from the purely
+propositional articulation to phenomenological description; there is no
+need for an actual descent to the level of situated experience.
+Although this is a thin characterization of the notion of a situated thought,
+I hope that enough has been said for it to be possible to put the notion to
+work here. The idea is that while the bare propositional understanding of q will leave us forced to regard the ampliative transition, say from
+
+q
+
+ to
+
+r
+
+, as
+something that can only be premised in the course of the argument, the
+situated thought of the content expressed by
+
+q
+
+ would suffice to licence a priori
+the ampliative move in question.
+
+Part 5: An Example of Situated Thought.
+
+It will help if we take an example of a situated thought. We can envisage a
+subject situated in front of a tree in the garden, and being perceptually
+related to it, sufficient to have the thought that there is a tree in the garden.
+The bare propositional content of the thought is:
+
+"There is a tree in the
+garden"
+
+. The situated thought involves appropriating in thought that
+subject’s perspective onto the perceptual scene that corresponds to the bare
+propositional content: thinking ourselves into what is involved for the
+subject in his being positioned as he is in grasping the perceptual content.
+The situated thought in this case allows the envisaged subject not only to
+grasp that there is a tree in the garden, with all that that proposition implies
+(e.g. that there is at least one tree in the world, etc.), but also to know
+without any further observation that there is a tree
+
+in front of me
+
+, or that
+there is a tree
+
+between me and the horizon
+
+.
+The question is, what licenses this move from
+
+There is a tree in the garden
+
+(=
+
+q
+
+) to
+
+There is a tree in front of me
+
+ (=
+
+r
+
+)? It is clearly not a valid deductive
+inference from one proposition to another. Moreover, even if my knowledge
+of
+
+q
+
+ is based on perception, and that perception is my own, and I know that
+it is, it still would not license me to infer from
+
+q
+
+ to
+
+r
+
+. I might, for example,
+be in a laboratory vehicle, receiving pictures on a screen from a camera that
+I know is in the garden, but not know that the vehicle I am in has also moved
+into the garden, just below the operative camera. Now, what has been lost
+in this latter scenario is precisely the situatedness of the thought that
+
+q
+
+. If
+we restore that connection, so that the thought is grasped
+
+from my point of
+view and informed by it
+
+, then the mere having of the thought licenses the
+move to ‘There is a tree in front of me’. The move from the one proposition
+to the other is synthetic: there is more in the thought that there is a tree in
+front of me than there is in the thought that there is a tree in the garden. Yet
+the move from the one to the other can be made a priori, in the sense that
+no further observational input is required. What validates the move is some-
+thing other than a conceptual relation between propositions. It is not the
+content of the thought expressed by
+
+q
+
+, but what the situated thinker brings
+to the thinking of it, that stands to carry that thinker from the truth of the
+one thought to the truth of the other.
+
+ (Here it is relevant that the situated-
+ness of the thought
+
+There is a tree in the garden
+
+ cannot be incorporated as
+part of the propositional content of the thought. I will return to this later.)
+Now, this example seems trivial, and its simplicity helps to bring out
+what is meant by talk of a thought being situated.
+
+ But the connection between situated thought and transcendental proof is immediately brought
+out by this further example: Take the content expressed by ‘MS does not
+exist now’. As a mere thought content, unsituated, it is not very interesting.
+It says merely that MS does not exist; and of course he may not. But as a
+situated thought by MS, the thought may be informed by the fact that the
+thinker himself is MS, that it is MS himself thinking it. So situated,
+the otherwise innocuous proposition constitutes the
+
+cogito
+
+ proof. Indeed,
+the
+
+cogito
+
+ seems to be a prime example of a proof that trades on situated
+thought. Of course, the
+
+cogito
+
+ is more usually expressed in terms of the
+first-person pronoun, say in the form ‘I do not exist.’ But the situatedness
+of the thought is still in play: it is only to the thinker whose thought is
+informed by the fact that he himself, at the moment of thought, is also the
+subject of the thought, that the thought ‘I do not exist’ is presented as self-
+refuting in a way that comprises the
+
+cogito
+
+ proof.
+
+
+ The same goes for the
+more usual form of the
+
+cogito
+
+, ‘I think, (therefore) I exist.’ If it is construed
+merely as an argument from one proposition, the understanding of which
+is unsituated, to another, we miss, or are at a loss to explain, the force of
+the argument. What drives the proof, what licenses the ‘therefore’, is only
+the situated thought, the act of thinking the first proposition, which brings
+the thinker ineluctably to the conclusion, while he is so thinking, that he
+must exist.
+A central feature of situated thought, noted above, should be under-
+lined here. A thought that is not situated may be considered as pure
+propositional or conceptual content. The content may be considered as if
+from no point of view. In a situated thought, that is not the case. In situ-
+ated thought the content of the thought is informed by the way the
+subject is epistemically positioned in relation to the facts that make the
+bare proposition true. This means that the content of a situated thought is
+not merely propositional. Thus in the examples above it is not the purely
+propositional content
+"There is a tree in the garden"
+
+, but the cognition
+generated by the actual or envisaged experience of the tree in the garden,
+that is the situated thought; it is not the propositional content "I am think-
+ing" , but the cognition generated by the actual or envisaged experience of
+my thinking, that is the situated thought in question. This brings out the
+sense in which situated thought forces a shift from the purely
+propositional or semantic level to the level of pure phenomenological
+description.
+Now the claim here is that the link between the cogito and situated
+thought is characteristic of transcendental proof: that central transcendental
+arguments typically trade on situated thoughts to make good their synthetic
+a priori claims. We have said that in most transcendental arguments there
+will be at least one central proposition that shadows a synthetic move – the
+idea is that the truth of that proposition can be established a priori as
+required only if it is understood to involve situated thought.
+
+Part 6: Two Case Studies: Kant on SUbstance and on Causality.
+
+To take an example of a transcendental argument from Kant, let us consider
+the central move in the First Analogy to be:
+All change is merely the alteration of an abiding substance.17
+When it is considered as a bare propositional content, it is difficult to see
+why this should be a true statement. It sounds like a bit of metaphysical
+dogma. It is certainly not analytic; and it is difficult to see how as a synthetic
+claim there can be any corresponding fact in the world that empirically veri-
+fies or refutes it even a posteriori. The recognition of its a priori truth arises
+only when the sentence is taken to be expressive of a situated thought.18
+To see this – and also to see how close situated thought is to transcendental
+insight – we can go back to the seemingly more trivial example of the two
+already mentioned. The envisaged experience of that tree can be embel-
+lished. The tree is struck by lightning and goes up in a sudden cloud of smoke.
+To have, as a situated thought, the content
+"There was a tree in the garden,
+and now there is not a tree in the garden" , rather than merely entertaining
+the corresponding propositional content, is to have or envisage having the
+experience of me not encountering a tree now, where earlier I did. But for
+that situated thought to make sense, it would have to be thought that there
+is, throughout, something in front of me, a perceptual backdrop, such that
+the demise of the tree is an event, an alteration, of that underlying substrate.
+As Kant puts it: ‘A coming to be or ceasing to be that is not simply a deter-
+mination of the permanent but is absolute, can never be a possible percep-
+tion.’19 For the change between there being a tree in the garden at t1 and
+there being no tree in the garden at t2 to be given within the confines of one
+situated thought, there must be presupposed, within the domain that the
+thought encompasses, an abiding spatio-temporal world. Moreover, since
+bare space and time cannot themselves be experienced, there would have to
+be something that fills the spatio-temporal region of experience: i.e. some-
+thing that persists across the tree-related experiences, sufficient to afford
+unity to the situated thought.
+Now, whether the non sequitur attributed to Kant here can be made
+good20 need not be of concern in the present context. Regardless of whether
+we can move to the conclusion that there must be one abiding substance
+underlying all change, the point here is the more modest conclusion that
+there must be something abiding across any one change – that if there
+weren’t, the perception of change would not be possible. That move – from
+things change to there must be some object that is invariant underlying such
+a change – is central to the argument, and the a priori truth of it can be
+brought out by taking up the assertion ‘things change’ in the context of a
+situated thought: by considering how things are for the situated subject experiencing the change. It is the situated understanding of the thought that
+brings out the truth of what is implied a priori by it. Nothing else can bring
+it out; but more importantly, nothing else is needed to bring it out – and this
+even though the move in question is not analytic but rather is informative
+about how the world must hold together in our experience of it.
+An objection should be raised at this point. Why could the change in
+question not be perceived without there being anything in the external
+world underlying, and so perceptually bridging, the gap between the situ-
+ated thought contents, of what there is in the garden at t1 and at t2? It may
+be granted that to be able to calibrate the two there must be something that
+remains unchanged, but why should it be specifically something external?
+Now, if we accept the Kantian view that subjective apprehension is always
+successive and atomistic, then arguably the only thing that can make the two
+perceptions commensurable, is if they are perceived  as so many alterations
+of a single underlying external world. (Without that, we could not even
+make sense of the two situated thoughts belonging to a single subject.) But
+that would count against the present attempt to construe transcendental
+arguments in terms of situated thought. The point of this construal is that
+the validity of transcendental arguments should be established a priori just
+from the situatedness of the relevant thoughts, without any dependence on
+the psychological make-up of the thinker. Insisting on experience being
+successive and atomistic would precisely be to introduce commitment to a
+form of transcendental or empirical psychology. Moreover, it is not as if
+there are no psychological models that reject one or both of those concep-
+tions.
+There are several possible lines of response to this objection. The most
+obvious response would be to grant the objection, but argue that it does not
+count against the understanding of transcendental arguments in terms of
+situated thoughts: that on the contrary, it shows only that Kant’s argument
+in the First Analogy is not a very good transcendental argument, precisely
+because it seems to turn centrally on more than pure situated thought.
+Alternatively, it might be thought that Kant has saddled what would be a
+valid proof with a substantive model of the mind. There would then be
+several ways of prising the argument and the psychological model apart, and
+one is particularly relevant in the present context.
+Without going into background detail, it is enough for present purposes
+to note that the argument can be freed from reliance on that psychological
+model to the extent that the change in question is not construed as possibly
+being a change merely between mental states, but rather is confined to a
+change in perceptions purportedly of external objects, such that not only the
+subjective experiences but also the apprehended states of affairs are them-
+selves supposed to be temporally structured.21 For these latter to be
+presented as changing in relation to one another, or as abiding, there must
+also be an abiding external world on the backdrop of which it makes sense to say either that where one object was there is now another, or that where
+one object was there is still the same object. That is, the only way for a subject
+to be so situated with regard to the tree and the puff of smoke as to make
+sense of there being an objective change from the one to the other, is if the
+subject is also confronted with a single background world that remains
+constant throughout the change. For an experience to represent its objects,
+say, the disappearance of the tree and the appearance of a puff of smoke, as
+standing in objective relations, those objects must be construed as modifica-
+tions of that abiding world. And this follows regardless of whether our expe-
+rience is always atomistic and successive, or is given whole as an organically
+unified stream. In the latter case there may be no need to appeal to an abid-
+ing external world to explain the unity of consciousness, and the two expe-
+riences – as of a tree and of a cloud of smoke – would be related to one
+another by virtue of being the contents of a unified subjective order. But
+objectually construed, those contents – tree and smoke – would stand to be
+incommensurable: like the contents of distinct dreams, discretely anchored,
+that could not be coherently plotted in relation to one another (although the
+occurrence of the dreams themselves arguably could). For a thinker to be
+situated with regard to both object domains together so as to make sense of
+there being relations between their denizens, even if only of temporal
+succession, there would have to be a common world in which the two objec-
+tual contents made their appearance.
+The idea then, in response to the objection raised, is that while there
+might be a construal of the argument that turns on a particular psychological
+theory, and to that extent fails to offer a fully transcendental proof, the
+specific line of argument presented here does not suffer that restriction, and
+turns only on the a priori presuppositions of situated thought.
+I turn now to a second example of a transcendental argument, also drawn
+from Kant. The central proposition of the Second Analogy, on one
+construal of it, is that everything that happens (= every event) has its cause.
+Again, as a mere proposition it looks like a piece of metaphysics. And Kant
+is clear that no one can acquire insight into that proposition merely from
+attending to the concepts involved, and yet that it is known ‘with complete
+apodictic certainty’. We can again understand what Kant means, by
+regarding the intended transcendental proof as a matter of discovering the
+presuppositions of having the situated thought that underpins the central
+proposition. We need to ask, on this construal, what is involved in someone
+actually having the experience of something as being an event. It seems
+clear that where my perception is as of an event, rather than as of two co-
+existing states of affairs, there the order of the perceptions involved is irre-
+versible. That irreversibility is the mark of event-perception. The question
+then is, what in my experience secures that irreversibility? What in the
+circumstances of my experience could render two perceptions such that they
+could not have occurred in reverse order? And Kant thinks that the subject would be faced with irreversibility of the two perceptions only if the
+perceived states of affairs involved in them were put together in such a way
+that the one state could not have happened except consequent upon the
+other. We might put the relevant point by saying say that it is only thus that
+the subject can, internal to the resources given to him in experience, establish
+the objectual states of affairs involved as themselves being in succession,
+and hence explain the irreversibility of his perceptions of them. But that is
+just to affirm a law-governed order (which constitutes a form of causality for
+Kant) holding within the objectual domain wherever we are entitled to talk
+of experiencing events.
+It is important to note that the conclusion of the argument is not simply
+that we must have a belief in a causal order, but that such belief must be true
+to the facts, in this sense: the empirical world of which we have experience
+must be causally governed. Saying that the experienced world must be caus-
+ally governed does not mean that our knowledge that it is so governed is
+part of what is given as the content of our perceptual experience. The
+content of our perceptual experience of the world clearly may be insuffi-
+cient to establish that it is causally ordered (for all the Humean reasons that
+Kant was responding to). What the Kantian argument purports to show is
+that there is another route to establishing that the world we experience must
+be causally ordered. Our belief in the causal ordering of the world will
+necessarily correspond to the facts about the world we experience – since
+those causal facts are required for experience to have the structure it does
+have – even if those facts cannot be read off directly from the content of our
+perceptual experience of that world. The importance of this, in the present
+context, is in bringing out that the deliverances of situated thoughts are not
+confined to the phenomenologically given contents of perceptual states, but
+rather can extend to non-perceptual descriptions of how the world, in our
+experience of it, must hang together.24
+This construal of the Second Analogy helps to bring out the sense in
+which it can be said that a situated understanding of the implication
+expressed by the proposition "Everything that happens (every event) has its
+cause"  provides the grounds for the truth of the proposition itself. Consider-
+ing what is required for us to be so situated as to have the experience of irre-
+versible perceptual states of an object world, and hence of the occurrence of
+events in it, reveals that the states of affairs involved must themselves be
+governed by causal laws.
+The general claim here is that as in these cases, of the First and Second
+Analogies, so in other central transcendental arguments there will be at
+least one proposition the appropriate understanding of which – and estab-
+lishing the truth of which – involves situated thought. This is what might be
+put by saying that the crucial synthetic moves involved in transcendental
+arguments stand to be established a priori only by the relation of the prop-
+ositional content to possible experience.
+
+Part 7: Reflections.
+
+With this approach to transcendental arguments in place, some important
+features of these arguments stand to be explained.
+First, the construal of central moves as situated thoughts casts some light
+on the question of whether the transcendental proofs in which those moves
+play a part are formal deductive inferences. Something was said about this
+earlier in anticipation, but it is worth returning to it now. There was a lively
+discussion surrounding the question of the formal validity of transcendental
+arguments several years ago, but it trailed off before any clear conclusion
+was reached.26 The treatment here implies that construing these arguments
+as formally valid inferences cannot be adequate. Formal deductive argu-
+ments range over, and turn on, relations between propositions or sentences.
+But the content of a situated thought cannot be fully captured as proposi-
+tional content: the content as delivered by the situatedness of the thinker
+essentially extends beyond anything that the mere propositional construal
+of the content can deliver. Because of this, although the over-all form of a
+transcendental argument might seem to be of a deductively valid argument
+(e.g. extended modus ponens), when it comes to the central individual
+moves of the argument the notion of presupposition or necessary condition
+involved cannot be brought into play as long as we attend only to conceptual
+or propositional contents. It is precisely in consequence of acknowledging
+this that we have secured the relevant notion of a necessary condition – or
+an epistemic condition – that does allow those moves to be made a priori. If
+the notion of ‘argument’ is readily taken to stand for relations between
+propositions or sentences (ideally such relations as constitute valid deduc-
+tive forms), then it might be better to avoid confusion by talking primarily
+of transcendental proofs rather than transcendental arguments. Transcen-
+dental proofs are (or stand to be) valid a priori, but the necessary conditions
+that their crucial moves advert to are not between propositions or concepts,
+but between situated thought contents.
+We can put it this way: the over-all proof in which those situated thoughts
+feature as the grounds for the central moves can be articulated as a deduc-
+tive inference, but only to the extent that those central ampliative moves are
+taken as premised in the course of the argument, it being acknowledged that
+they need to be separately established by way of transcendental proof,
+which requires departing from the purely propositional level of understand-
+ing to situated thought. As valid deductive inferences transcendental argu-
+ments are then parasitic on transcendental proofs, at least if they are to
+retain any epistemological interest.
+It is interesting to note in this context that Kant himself does not usually
+speak of transcendental arguments, but of transcendental proofs. We
+should perhaps not read that much into this terminological fact; neverthe-
+less, in speaking of transcendental proof, Kant says things that readily suggest the difference captured here in terms of the distinction between
+propositional/conceptual contents and situated thoughts, here is citation.
+In transcendental knowledge, so long as we are concerned only with
+concepts of the understanding, our guide is the possibility of experience.
+Such proof does not show that the given concept (for instance, of that
+which happens) leads directly to another concept (that of a cause); for
+such a transition would be a saltus which could not be justified. The proof
+proceeds by showing that experience itself, and therefore the objects
+of experience, would be impossible without a connection of this kind.
+Accordingly, the proof must also at the same time show the possibility
+of arriving synthetically and a priori at some knowledge of things which
+was not contained in the concepts of them.
+Understanding transcendental proofs in terms of the necessary conditions
+of situated thoughts not only serves to set such proofs aside from others, but
+also explains why what makes them unique precisely fits them to be called
+transcendental proofs, in Kant’s specific use of the term: as identifying that
+which is presuppositional to experience. In dealing with the conditions of
+having situated thought, such proofs precisely investigate how things must
+be held together for experience to be possible. It is because of this that tran-
+scendental proofs will always start from the basic situatedness of thought:
+from the fact that I have experience, or that all my experiences are mine.
+This makes it clear that it is not that there are transcendental arguments,
+and that the interesting ones will start from some premiss that the sceptic
+cannot doubt, such as that we have experience. It is rather in the very nature
+of anything properly called a transcendental argument or proof that it must
+have such a premiss. That it might thereby answer the sceptic is more or less
+a fortunate by-product.
+A second feature, connected to this, relates to the status of these condi-
+tions. To take the example of the argument for permanence drawn from the
+First Analogy, an abiding world might be sufficient, but what renders it also
+necessary for the experience of objective change or, more generally, of
+temporal relations in the object-world? How do we establish that no other
+way of securing such experiences is possible? There is a very general sense
+in which we cannot rule out alternatives – the sense in which God could
+make anything work differently. But since that is seemingly true of basic
+mathematical truths and laws of logic too, that restriction on necessity claims
+need not be of special concern here. Leaving aside that general sense in
+which nothing can be claimed to be absolutely necessary, the point is that
+the link established a priori here, between a situated thought and its
+epistemic conditions, is so direct that we cannot even begin to identify, or conceive of there being, any mediating mechanism which might be displaced
+(in other times or places). The connections in question seem to be necessary
+precisely because they are immediate – there is no logical space into which
+a wedge might be driven, suggesting where modification might occur such
+as would sustain alternative ways of making possible the situated thoughts
+in question. The thing that conceals that direct link, making it seem that one
+could be had without the other, is that rather than a situated understanding
+of the thoughts in question the matter is considered at the purely proposi-
+tional level – at which level there is clearly room for doubt. Given that the
+necessity here is not psychological or metaphysical, and given how direct it
+is, we might – if only as a way of flagging a point for further work – think of
+it as a sui generis necessity: the necessity of certain conditions obtaining for
+situated thought to be possible at all. As such it may suitably be called
+transcendental necessity, where ‘transcendental’ means precisely being
+presuppositional to situated thought, or to experience.
+A third feature worth noting is that we have here, in the construal of tran-
+scendental arguments in terms of situated thought, an approach to the link
+between transcendental arguments and transcendental idealism. Consider
+the following passage, from the First Analogy.
+
+we ought first to have proved that in all appearances there is some-
+thing permanent, and that the transitory is nothing but determination
+of its existence. But such a proof cannot be developed dogmatically,
+that is, from concepts, since it concerns a synthetic apriori proposition.
+Yet as it never occurred to anyone that such propositions are valid
+only in relation to possible experience, and can therefore be proved
+only through a deduction of the possibility of experience,29 we need not
+be surprised that though the above principle is always postulated as
+lying at the basis of experience (for in empirical knowledge the need
+of it is felt,) it has never itself been proved.
+
+Kant’s purpose in talking of the propositions in question being valid only in
+relation to possible experience is, of course, primarily to indicate his strat-
+egy of curtailing the remit of metaphysical claims in order to be able finally
+to establish their a priori validity. But in the present context this talk of
+propositions that are valid only in relation to possible experience, and which
+can be proved only through a deduction of the possibility of experience, is
+again immediately suggestive of the more minimal claim: that the crucial
+move in the argument can be made good only in relation to situated thought
+(= possible experience), rather than in terms of bare propositional thought.
+That a passage, the primary concern of which is to articulate the transcen-
+dental idealist setting of the argument, is found amenable to such a
+construal is, I think, indicative of the fact that something about the notion of situated thought is expressive of an insight in transcendental idealism.
+And it is an insight that may be retained without the rest of that position.
+The underlying connection can be brought out, even without reaching for
+any transcendental distinctions, by clarifying the way in which the situated-
+ness of thought is both a necessary and a sufficient condition of transcen-
+dental proof. If what has been said here is right, then if – per impossibile – a
+person’s thought could not in any respect be construed by that person as
+situated, then the conclusions of transcendental proofs would not be avail-
+able to that person for, specifically a priori, knowledge. We are to think here
+of a person whose point of view would be so detached that all of his thoughts
+were like that in the case of the person observing the garden on a monitor,
+not knowing where he himself is situated vis-à-vis the camera. But what is
+both necessary and sufficient for a transcendental proof to work is only that
+the subject’s thought be situated virtually: that is, that it be situated with
+regard to an objectual domain, the order of which may be experienced as
+holding independently of our subjective states of awareness of it, regardless
+of whether the entire situation is in itself as it is internally presented to the
+thinker. Within the context in which the subject finds himself embedded, at
+least virtually, certain things will be known a priori to obtain (known by any
+person whose thought is so situated). This raises the possibility of a thought
+being situated, while the thinker can consider that he, or the subject with
+whom he is identifying, might not in fact be situated as he takes himself to
+be. In that case we have the domain within which the thought is situated
+giving rise to transcendental proofs, while allowing that those proofs are
+valid only within, and of, the context of such situated thought. Here the
+domain within which situated thought is embedded parallels Kant’s empiri-
+cal reality; while the recognition that the a priori validity of our transcen-
+dental proofs is restricted to such domains parallels Kant’s transcendental
+idealism. In a nutshell, the connection with transcendental idealism lies in
+this: in the domain of situated thought, or of experience, the necessity of
+making the move in question is established, and it holds true of any such
+context, regardless of whether it holds true of, or indeed it makes sense to
+talk of there being, any domain that extends beyond it.
+Finally, a comment on the difference between talking of conditions of
+situated thought and talking simply of conditions of experience. As was
+noted above, the device of situated thought serves to focus attention on the
+relevant dimension of experience, to render its articulation cognitive. But
+there is more to it than that: it is the way in which situated thought presents
+the cognitive articulation of experience that matters. If we speak of condi-
+tions of experience without any further qualification, then we should expect
+the conclusions of transcendental arguments to apply not only to human
+forms of such experience, but to all. Kant sensibly does not advocate
+anything like this: he thinks that God’s experience, for example, would not
+be subject to the epistemic conditions that apply to us. His only explanation for this is that we have faculties of the mind that would not be shared by all
+other forms of experience. This relieves transcendental arguments from the
+uncomfortable burden of having to legislate for all possible forms of expe-
+rience. But it has the cost of relying on rather dubious transcendental
+psychology. It also draws the relevant line in the wrong place, since not only
+God but also other forms of experience (such as that had by non-human
+animals) then stand to be excluded from the jurisdiction of transcendental
+arguments. Unpacking transcendental arguments in terms of the device of
+situated thought has the advantage of drawing the line in the right place, for
+the right reason, and without being committed to transcendental psychology
+as a means of doing it. What is identified is that, for all we have seen, these
+are the conditions of any experience that is articulated from the perspective
+of an embedded subject. That includes more than human experience,
+obviously, and excludes God’s experience, which is precisely not situated, or
+from a point of view. The link between transcendental arguments and points
+of view (perspectives) has long been appreciated. The suggestion here is
+that it is not that our point of view is tainted by a particular cognitive struc-
+ture that we bring with us, but that it is the notion of a situated thought, the
+mere notion of experience as being from a point of view, that itself imposes
+the relevant structure.
+
+Part 8: Conclusion.
+
+A point of historical diagnosis might be worth bringing out at this point. The
+concern with transcendental arguments has been widespread since Kant,
+and as much in analytical circles as in non-analytic philosophy. But there is
+one relevant difference we are now in a position to identify clearly. I said
+earlier that a standard construal of transcendental arguments in terms of
+conceptual or propositional presupposition missed a crucial feature of such
+arguments. That construal has been particularly rife in analytic philosophy.
+In contrast, the refusal of the linguistic ascent, in favour of a descent into the
+phenomena, is more readily associated with a non-analytic approach to
+transcendental proofs.
+Specifically, the form of proof identified, in asking after the preconditions
+of what I have been calling situated thought, approximates to what may
+deservedly be referred to as transcendental or pure phenomenology. If what
+has been said here is right, then we have an insight into how such a pure
+phenomenology is of epistemic – and not merely descriptive – import; and
+how it helps to capture both the nature of Kant’s transcendental proofs and
+the confinement of their validity to empirical reality, to the level of possible
+experience.
+The best way forward, as I hope should be clear from the above, is a
+combination of the two approaches. We should set out the formally valid
+deductive arguments as the shell, while recognizing that the central moves, which can be regarded only as premised in the run of the argument, need to
+be established independently, by way of transcendental proof – working
+through the relevant propositional content in situated thought. If that is
+done, the status of propositions that are synthetic but a priori stands to be
+established (and their scope appropriately restricted).

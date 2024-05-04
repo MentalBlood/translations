@@ -1,0 +1,839 @@
+Abstract.
+Абстрактный.
+
+  The paper aims to cast light on the kind of proof involved in central transcendental arguments.
+  Целью статьи является пролить свет на виды доказательств, используемых в центральных трансцендентальных аргументах.
+
+ It is suggested that some of the difficulty associated with such arguments may result from the tendency to construe them simply as articulating relations between concepts or propositional contents.
+ Предполагается, что некоторые трудности, связанные с такими аргументами, могут быть результатом тенденции истолковывать их просто как формулирование отношений между понятиями или содержанием высказываний.
+
+ A different construal, connected with phenomenological description, is outlined, as a way of bringing out the force of these arguments.
+ Намечается иная конструкция, связанная с феноменологическим описанием, как способ выявить силу этих аргументов.
+
+ It is suggested that it can be fruitful to think in terms of this construal in understanding some of Kant’s transcendental proofs.
+ Предполагается, что размышление в терминах этой интерпретации может быть плодотворным при понимании некоторых трансцендентальных доказательств Канта.
+
+ The recommended construal also helps to understand the nature of the link between transcendental arguments and transcendental idealism.
+ Рекомендуемая интерпретация также помогает понять природу связи между трансцендентальными аргументами и трансцендентальным идеализмом.
+
+  The concern in what follows is with what we should understand transcendental arguments to be.
+  Далее речь идет о том, что мы должны понимать под трансцендентальными аргументами.
+
+ At issue is the  kind   of proof that is involved in central transcendental arguments.
+ Речь идет о типе доказательства, которое используется в центральных трансцендентальных аргументах.
+
+ I do not mean to suggest that only one answer to the question should be possible, or that for any answer to count as adequate it should fit everything that might reasonably be identified as a transcendental argument.
+ Я не имею в виду, что возможен только один ответ на вопрос или что для того, чтобы любой ответ считался адекватным, он должен соответствовать всему, что можно разумно назвать трансцендентальным аргументом.
+
+ Transcendental arguments have been around for too long to expect anything quite so tidy.
+ Трансцендентальные аргументы существуют слишком долго, чтобы ожидать чего-то настолько четкого.
+
+ The aim is rather to identify an answer that fits core transcendental arguments: the sort of answer that might have constituted a neater fit had the notion of a transcendental argumeant not enjoyed such a long and unfocussed history since Kant.
+ Цель, скорее, состоит в том, чтобы найти ответ, который соответствует основным трансцендентальным аргументам: ответ, который мог бы быть более подходящим, если бы понятие трансцендентального аргументанта не имело такой долгой и несфокусированной истории со времен Канта.
+
+  Part 1: The Conceptual Construal of Transcendental Arguments.
+  Часть 1: Концептуальная интерпретация трансцендентальных аргументов.
+
+  There is common agreement, at least in general terms, about what transcendental arguments purport to do: they start from premisses that are so rudimentary and indisputable that the interlocutor, and specifically the sceptic, cannot fail to accept them, then by a series of valid moves they yield a conclusion that is precisely of the sort that the sceptic did question.
+  Существует общее согласие, по крайней мере в общих чертах, относительно того, на что претендуют трансцендентальные аргументы: они начинаются с предпосылок, которые настолько рудиментарны и неоспоримы, что собеседник, и особенно скептик, не могут их не принять, а затем с помощью ряда обоснованных аргументов. ходы, они приводят к выводу, который является именно тем, который подвергал сомнению скептик.
+
+ Thus the sceptic must concede that the sceptical possibility turns out to be incompatible with other commitments that the sceptic cannot but hold.
+ Таким образом, скептик должен признать, что скептическая возможность оказывается несовместимой с другими обязательствами, которых скептик не может не придерживаться.
+
+ How transcendental arguments do this is less clear.
+ Каким образом трансцендентальные аргументы делают это, менее ясно.
+
+ A thumbnail sketch might tell us that they reveal presuppositional relations.
+ Эскиз-миниатюра может сказать нам, что они раскрывают пресуппозиционные отношения.
+
+ Many of those who talk about presuppositions here also talk of necessary conditions.
+ Многие из тех, кто говорит здесь о предпосылках, говорят также и о необходимых условиях.
+
+ The question is, what is meant by ‘a necessary condition’, or ‘presupposition’, the use of which is so common in discussions of Kant’s transcendental progress in particular?
+ Вопрос в том, что подразумевается под «необходимым условием», или «предпосылкой», употребление которых так часто встречается в дискуссиях, в частности, о трансцендентальном прогрессе Канта?
+
+ Frequently, these relations are thought to hold between concepts, or propositions.
+ Часто считается, что эти отношения существуют между понятиями или предложениями.
+
+ To some extent this construal may derive from some of Kant’s own formulations.
+ В некоторой степени эта интерпретация может быть заимствована из некоторых собственных формулировок Канта.
+
+ Because of his transcendental idealism, he allows himself to use terms like ‘representation’ ( Vorstellung ) in two ways,   and insensitivity to this can make it seem that Kant is talking only of presuppositions between empirical representations; specifically, between an individual’s propositional contents.
+ Из-за своего трансцендентального идеализма он позволяет себе использовать такие термины, как «представление» (Vorstellung), двояко, и нечувствительность к этому может создать впечатление, что Кант говорит только о предпосылках между эмпирическими представлениями; в частности, между пропозициональным содержанием индивида.
+
+ The tendency towards seeing transcendental arguments as concerned with relations between broadly linguistic representations was further encouraged in the not too distant past by the linguistic turn and – more specifically – by the predominance of conceptual schemes.
+ Тенденция рассматривать трансцендентальные аргументы как связанные с отношениями между широкими языковыми репрезентациями в не столь отдаленном прошлом еще больше поощрялась лингвистическим поворотом и – более конкретно – преобладанием концептуальных схем.
+
+   There are various problems with this.
+   С этим возникают различные проблемы.
+
+ But for present purposes the significant drawback to concentration on conceptual schemes in approaching transcendental arguments is that it reinforces the view that transcendental arguments are concerned with  conceptual structures  , hived off from objects of experience, rather than with the  experienced objects   themselves (however conceptual that experience might be).
+ Но для нынешних целей существенным недостатком концентрации на концептуальных схемах при подходе к трансцендентальным аргументам является то, что она укрепляет точку зрения, согласно которой трансцендентальные аргументы связаны с концептуальными структурами, выделенными из объектов опыта, а не с самими объектами опыта (какими бы концептуальными ни были эти переживания). возможно).
+
+ There has thus been a fairly ubiquitous trend to construe transcendental arguments as involving relations of presupposition specifically of a conceptual nature.
+ Таким образом, существует довольно повсеместная тенденция истолковывать трансцендентальные аргументы как включающие отношения предпосылок именно концептуального характера.
+
+  I hope to bring out that the retreat from experienced objects to concepts in fact results in missing the key to understanding transcendental arguments.
+  Я надеюсь показать, что отступление от переживаемых объектов к концепциям фактически приводит к упущению ключа к пониманию трансцендентальных аргументов.
+
+   Indeed, the idea is that once their nature is properly grasped, the modern practice of referring to them as transcendental  arguments   might be thought to be misleading.
+   Действительно, идея состоит в том, что как только их природа будет правильно понята, современная практика обращения к ним как к трансцендентальным аргументам может показаться вводящей в заблуждение.
+
+  Part 2: The Problem.
+Часть 2: Проблема.
+
+ Such construals cannot capture the kind of genuine increase in knowledge claimed to be involved in transcendental arguments.
+ Такие интерпретации не могут отразить тот тип подлинного увеличения знаний, который, как утверждается, связан с трансцендентальными аргументами.
+
+ But a deductive  inference from premisses to conclusion could not in itself be responsible for the addition of substantive content along the way.
+ Но дедуктивный вывод от посылок к заключению сам по себе не может быть ответственным за добавление существенного содержания на этом пути.
+
+ Making implicit logical entailment explicit may, to put it in Kant’s terms, increase our explicative knowledge, but we are looking for expansive or ampliative knowledge.
+ Если выразить неявное логическое следствие явным, то, выражаясь терминами Канта, можно увеличить наше объяснительное знание, но мы ищем расширительное или амплиативное знание.
+
+   There must then be some point at which the process of simple deductive inference is disrupted, and a synthetic or ampliative move is made.
+   Тогда должен быть какой-то момент, в котором процесс простого дедуктивного вывода прерывается и делается синтетический или амплиативный ход.
+
+ This ampliative step could be presented either as a move from one line of the argument to the next, or as a move of hypothetical form internal to a given line.
+ Этот амплиативный шаг можно представить либо как переход от одной линии аргументации к другой, либо как ход гипотетической формы, внутренней по отношению к данной линии.
+
+ We can take these as notational variants for one and the same move.
+ Мы можем принять их за варианты обозначений одного и того же хода.
+
+ For simplicity, I will stick to the latter form in what follows.
+ Для простоты в дальнейшем я буду придерживаться последней формы.
+
+ The tension arises when we ask how the truth of the proposition expressing the ampliative move is established.
+ Напряжение возникает, когда мы задаемся вопросом, как устанавливается истинность предложения, выражающего амплиативный ход.
+
+ It would seem  prima facie   that it cannot be established empirically (a posteriori).
+ Казалось бы, prima facie, это не может быть установлено эмпирически (апостериори).
+
+ The starting propositions of effective transcendental arguments are certainly contingent – for example, that I have different experiences, that I experience change, or that I am selfconscious.
+ Исходные положения эффективных трансцендентальных аргументов, безусловно, условны – например, что у меня есть другой опыт, что я испытываю изменения или что я застенчив.
+
+ These are clearly contingent and empirically established, but they are so basic that they cannot be reasonably denied.
+ Они явно случайны и эмпирически установлены, но они настолько фундаментальны, что их нельзя обоснованно отрицать.
+
+ The question is, what is the nature of the less obvious moves that come later, en route to the substantive conclusion?
+ Вопрос в том, какова природа менее очевидных шагов, которые происходят позже, на пути к существенному выводу?
+
+ If a proposition expressive of such a move is to be genuinely informative or expansive in relation to the premisses, then its truth must be established in some way other than by logical entailment from preceding steps.
+ Если предложение, выражающее такой ход, должно быть действительно информативным или расширительным по отношению к посылкам, тогда его истинность должна быть установлена каким-либо способом, отличным от логического следствия из предыдущих шагов.
+
+ But if it is merely an empirically verified statement, it is not clear how it would be immune from doubt.
+ Но если это просто эмпирически проверенное утверждение, неясно, как оно будет защищено от сомнений.
+
+ The question is, then, what kind of truths comprise these central steps in a transcendental argument, given that they cannot be based either on meanings alone or on contingent observation.
+ Вопрос в том, какие истины включают в себя эти центральные шаги трансцендентального аргумента, учитывая, что они не могут быть основаны ни на одних значениях, ни на случайном наблюдении.
+
+ This question is just Kant’s guiding question about how synthetic a priori judgements are possible.
+ Этот вопрос — всего лишь руководящий вопрос Канта о том, насколько возможны синтетические априорные суждения.
+
+ It is clear that whatever else they do, transcendental arguments are supposed to deliver just such knowledge.
+ Ясно, что что бы они ни делали, трансцендентальные аргументы должны давать именно такое знание.
+
+  Part 3: The General Shape of Transcendental Arguments.
+  Часть 3: Общая форма трансцендентальных аргументов.
+
+  This is the point that we have reached: it would seem that in every successful transcendental argument there must be at least one genuinely ampliative or synthetic step, which given its significance cannot simply be assumed (on pain of the argument being question-begging against the sceptic), and which – since it says more than any of the given premisses – cannot be established deductively in the course of the argument.
+  Это та точка, которой мы достигли: казалось бы, в каждом успешном трансцендентальном аргументе должен быть по крайней мере один подлинно амплиативный или синтетический шаг, который, учитывая его значимость, не может просто предполагаться (из-за опасения, что аргумент будет подвергнут сомнению против скептик), и которая – поскольку она говорит больше, чем любая из данных посылок – не может быть установлена дедуктивно в ходе рассуждения.
+
+ Yet it must be established a priori if it is to be assured immunity to doubt.
+ Однако это должно быть установлено априори, если мы хотим обеспечить иммунитет от сомнений.
+
+ Let one line expressive of such a step be the move from  q   to  r   in the following schema.
+ Пусть одной линией, выражающей такой шаг, будет переход от q к r в следующей схеме.
+
+ Where  p   is a premiss the sceptic cannot fail to accept, and  s   is a proposition the sceptic typically doubts.
+ Где p — это посылка, которую скептик не может не принять, а s — это утверждение, в котором скептик обычно сомневается.
+
+ For simplicity the schema depicts the transcendental argument as an extended  modus ponens   argument form, but obviously it need not take precisely that form.
+ Для простоты схема изображает трансцендентальный аргумент как расширенную форму аргумента modus ponens, но очевидно, что он не обязательно должен принимать именно такую форму.
+
+  A brief look at some examples of transcendental arguments will reveal the kinds of moves that are in question.
+  Краткий взгляд на некоторые примеры трансцендентальных аргументов покажет, о каких ходах идет речь.
+
+ We can find such propositions as follows.
+ Такие предложения мы можем найти следующим образом.
+
+  If experience of succession is to be possible, there must be something that is invariant.
+  Чтобы опыт преемственности был возможен, должно быть что-то инвариантное.
+
+ If experience of change is to be possible, the empirical world must abide by causality.
+ Если опыт изменений должен быть возможен, эмпирический мир должен подчиняться причинности.
+
+ If experience of items as distinct from me and from one another is to be possible, they must be located in a unified spatio-temporal world.
+ Если опыт предметов, отличных от меня и друг от друга, должен быть возможен, они должны находиться в едином пространственно-временном мире.
+
+ If self-awareness is to arise, I must recognize others as themselves persons who (can) recognize me.
+ Чтобы возникло самосознание, я должен признать в других людях, которые (могут) признать меня.
+
+  The moves in question can be represented by material implication; and if those conditionals can be taken as true, the arguments in which they figure would be valid.
+  Ходы, о которых идет речь, могут быть представлены материальным смыслом; и если эти условные выражения можно принять как истинные, аргументы, в которых они фигурируют, будут действительными.
+
+ But that leaves open the question of how they are established to be true.
+Но это оставляет открытым вопрос о том, как они подтверждаются.
+
+ What kind of move could be involved here in each case, such as would render these crucial propositions  synthetic   and yet such that their truth can be established a priori?
+ Какой ход мог бы быть задействован здесь в каждом случае, чтобы сделать эти решающие положения синтетическими и в то же время такими, что их истинность может быть установлена априорно?
+
+ The suggestion I want to explore accepts that, within the confines of the valid deductive argument, the propositions in question must be regarded as assumed.
+ Предложение, которое я хочу изучить, предполагает, что в рамках действующего дедуктивного аргумента рассматриваемые предложения следует рассматривать как предполагаемые.
+
+ These propositions cannot be established to be true as long as they are considered simply as articulating conceptual relations or relations between propositional contents (although what is established can be described   at that level).
+ Истинность этих пропозиций не может быть доказана, пока они рассматриваются просто как формулирующие концептуальные отношения или отношения между содержаниями пропозиций (хотя то, что установлено, можно описать на этом уровне).
+
+ Confinement to the grasp of the bare conceptual or propositional content will capture what is being said, but not the a priori ground for its being true.
+ Ограничение понимания чистого концептуального или пропозиционального содержания позволит уловить то, что говорится, но не априорное основание того, что это истинно.
+
+ Securing the latter requires shifting from the conceptual level to something like the phenomenological level, the level of experience.
+ Обеспечение последнего требует перехода от концептуального уровня к чему-то вроде феноменологического уровня, уровня опыта.
+
+ Only so can the grounds for the truth of the transcendental claim be grasped.
+ Только так можно уловить основания истинности трансцендентального утверждения.
+
+ At that level we stand to secure an a priori grasp of the primary ampliative move, a move that the material implication at the propositional level merely shadows.
+ На этом уровне мы можем обеспечить априорное понимание первичного амплиативного движения, движения, которое материальная импликация на пропозициональном уровне лишь затеняет.
+
+ But saying only that the central move must be understood phenomenologically rather than conceptually will not further the discussion.
+ Но если сказать только, что центральный ход следует понимать феноменологически, а не концептуально, это не продвинет дискуссию.
+
+ It threatens to be a mere return to a posteriori grounding.
+ Это грозит просто возвратом к апостериорному обоснованию.
+
+ We need to be clear what that descent from the merely conceptual level amounts to.
+ Нам необходимо ясно понимать, к чему приводит этот спуск с чисто концептуального уровня.
+
+  Part 4: Situated Thoughts.
+  Часть 4: Расположенные мысли.
+
+ But mere talk of conditions of possibility is too vague.
+ Но просто разговоры об условиях возможности слишком расплывчаты.
+
+ It could be taken to mean no more than semantic conditions for the possibility of a given concept making sense, which would simply take us back towards the notion of conceptual presupposition.
+ Его можно было бы понимать как не более чем семантические условия возможности того, чтобы данное понятие имело смысл, что просто вернуло бы нас назад к понятию концептуальной предпосылки.
+
+ We get closer to a relevant notion, I think, in Allison’s talk of an  epistemic condition   – a condition for the possibility of knowledge, or of experience.
+ Я думаю, что мы приближаемся к соответствующему понятию в разговоре Эллисона об эпистемическом состоянии – условии возможности знания или опыта.
+
+ However, Allison does not develop this notion in connection with a discussion of transcendental arguments, and does not say much about it: ‘Even though this notion is central to Kant’s whole transcendental enterprise, the fact that he never explicitly deals with it makes it difficult, if not impossible, to define in any precise way.
+ Однако Эллисон не развивает это понятие в связи с обсуждением трансцендентальных аргументов и мало говорит о нем: «Хотя это понятие является центральным для всего трансцендентального предприятия Канта, тот факт, что он никогда открыто не рассматривает его, затрудняет задачу. , если не невозможно, дать какое-либо точное определение.
+
+’   Allison says that an epistemic condition is one ‘that is necessary for the representation of an object or an objective state of affairs.
+Эллисон говорит, что эпистемическое состояние — это состояние, «которое необходимо для репрезентации объекта или объективного положения дел».
+
+’   And it is supposed to be distinct from a  psychological   condition, and from an  ontological   condition.
+И предполагается, что оно отличается от психологического состояния и от онтологического состояния.
+
+   The idea is that there is a set of epistemic conditions of the possibility of human experience of things – the categories and the forms of space and time constitute this set – and these conditions determine the way in which any objectual experience we may have will be structured.
+   Идея состоит в том, что существует набор эпистемических условий возможности человеческого опыта вещей – категории и формы пространства и времени составляют этот набор – и эти условия определяют способ, которым будет структурирован любой объектный опыт, который мы можем иметь. .
+
+ There is in fact a question about just how distinct epistemic conditions can be from psychological conditions.
+ Фактически возникает вопрос о том, насколько эпистемические условия могут отличаться от психологических состояний.
+
+ that they are ‘conditions that determine what can count as an object for the human mind’   – seems consistent with (although it does not entail) the view that they originate in a substantive body of cognitive structures essential to the human mind.
+ что они являются «условиями, определяющими то, что может считаться объектом человеческого разума», – кажется, согласуется (хотя и не влечет за собой) с мнением о том, что они возникают в существенной совокупности когнитивных структур, необходимых для человеческого разума.
+
+ Merely insisting on the non-contingency of this cognitive equipment would not help to distinguish epistemic from psychological conditions.
+ Простое настаивание на неслучайности этого когнитивного аппарата не помогло бы отличить эпистемические состояния от психологических.
+
+ And it may be better to insist only that for something to count as an epistemic condition it should be so construed as not to rest on any specific cognitive apparatus to which alternatives are comprehensible.
+ И, возможно, лучше настаивать только на том, что для того, чтобы что-то можно было считать эпистемическим состоянием, оно должно быть истолковано так, чтобы не опираться на какой-либо конкретный когнитивный аппарат, которому понятны альтернативы.
+
+ What we need then is to secure a handle on the notion of an epistemic condition that does not draw its legitimacy from any particular doctrine of cognitive or psychological structures.
+ В таком случае нам нужно найти подход к понятию эпистемического состояния, которое не черпает свою легитимность из какой-либо конкретной доктрины когнитивных или психологических структур.
+
+ In saying of a thought that it is  situated  , I mean that it is construed as being the thought that one would have  from a particular point   within a framework, the content of which is informed by it being grasped as if from that perspective.
+ Говоря о мысли, в которой она находится, я имею в виду, что она истолковывается как мысль, которую можно было бы иметь из определенной точки внутри структуры, содержание которой определяется тем, что она воспринимается как бы с этой точки зрения.
+
+ It is not bare propositional content considered as if from nowhere, but is rather informed by being phenomenologically embedded and directed.
+Это не голое пропозициональное содержание, рассматриваемое как будто из ниоткуда, а, скорее, информированное, феноменологически встроенное и направленное.
+
+ In saying that what is so situated is a  thought  , I mean to distinguish it from mere phenomenological or perceptual experience.
+ Говоря, что находящееся таким образом является мыслью, я имею в виду отличие ее от просто феноменологического или перцептивного опыта.
+
+ It is distinguished in two ways that are important here.
+ Его различают по двум важным здесь признакам.
+
+ The first is as follows.
+ Первое заключается в следующем.
+
+ Any experience must be internally structured, or articulated, on pain of it not qualifying as an experience at all: without that articulation, sufficient to distinguish one type of experience from another, there would not be anything it is like for the experiencing subject to undergo it.
+ Любой опыт должен быть внутренне структурирован или артикулирован под страхом того, что он вообще не будет квалифицироваться как опыт: без этой артикуляции, достаточной для того, чтобы отличить один тип опыта от другого, не было бы ничего, что переживающий субъект мог бы пережить. это.
+
+   But saying that experience must be articulated is not the same as saying that it must be linguistically articulated, or indeed linguistically articulable by the subject in question; it is not even to say that that articulation is fully cognitive.
+   Но сказать, что опыт должен быть артикулирован, — это не то же самое, что сказать, что он должен быть лингвистически артикулирован или даже лингвистически артикулирован рассматриваемым субъектом; нельзя даже сказать, что эта артикуляция полностью когнитивна.
+
+ Part of the point of talking of a situated  thought   is precisely to focus on that articulation, and to make it cognitively salient in a way that it might not be in a brute experience.
+ Частично смысл разговора о ситуативной мысли состоит именно в том, чтобы сосредоточиться на этой артикуляции и сделать ее когнитивно значимой так, чтобы ее не было в грубом опыте.
+
+ Second, a situated  thought   differs from the corresponding experience in that the situated thought does not require that the subject actually be situated – only that he approximates in thought to what would be delivered up to him if he were so situated.
+ Во-вторых, ситуативная мысль отличается от соответствующего опыта тем, что ситуативная мысль не требует, чтобы субъект действительно был ситуационирован, а только чтобы он приближался в мыслях к тому, что было бы ему передано, если бы он находился в таком положении.
+
+ We might put this by saying that the situated thought is phenomenologically informed without itself being a phenomenological experience.
+ Мы могли бы выразить это, сказав, что ситуационная мысль феноменологически информирована, но сама по себе не является феноменологическим опытом.
+
+ In this respect the situated thought can be considered to fall between, on the one hand, the bare propositional content and, on the other, an experience the content of which is expressed by that propositional articulation.
+ В этом отношении находящуюся мысль можно рассматривать как находящуюся между, с одной стороны, чистым пропозициональным содержанием, и, с другой стороны, опытом, содержание которого выражается этой пропозициональной артикуляцией.
+
+ It falls short of actually being an  experience  ; it is rather a matter of representing  in thought   a situated construal of a propositional content: considering what it would be like to be so situated as to have an experience of that content.
+ Это не совсем настоящий опыт; скорее речь идет о представлении в мышлении ситуативной конструкции пропозиционального содержания: размышлении о том, каково было бы оказаться в такой ситуации, чтобы иметь опыт этого содержания.
+
+ Importantly, establishing the validity of a transcendental proof requires only that we have the situated thought, not that we actually have an experience that instantiates the situated thought.
+ Важно отметить, что для установления достоверности трансцендентального доказательства требуется только наличие у нас ситуативной мысли, а не фактическое наличие опыта, который воплощает в жизнь ситуативную мысль.
+
+   For transcendental proof it is enough that we make the move in thought from the purely propositional articulation to phenomenological description; there is no need for an actual descent to the level of situated experience.
+   Для трансцендентального доказательства достаточно того, что мы мысленно перешли от чисто пропозициональной артикуляции к феноменологическому описанию; нет необходимости в реальном нисхождении на уровень ситуационного опыта.
+
+ Although this is a thin characterization of the notion of a situated thought, I hope that enough has been said for it to be possible to put the notion to work here.
+ Хотя это нечеткая характеристика понятия ситуативной мысли, я надеюсь, что было сказано достаточно, чтобы можно было применить это понятие здесь.
+
+ The idea is that while the bare propositional understanding of q will leave us forced to regard the ampliative transition, say from  q   to  r  , as something that can only be premised in the course of the argument, the situated thought of the content expressed by  q   would suffice to licence a priori the ampliative move in question.
+ Идея состоит в том, что, хотя голое пропозициональное понимание q заставит нас рассматривать амплиативный переход, скажем, от q к r, как нечто, что может быть предположено только в ходе аргументации, ситуационная мысль о содержании, выраженном q было бы достаточно, чтобы априори лицензировать рассматриваемый амплиативный ход.
+
+  Part 5: An Example of Situated Thought.
+  Часть 5: Пример расположенной мысли.
+
+  It will help if we take an example of a situated thought.
+  Будет полезно, если мы возьмем пример ситуационной мысли.
+
+ We can envisage a subject situated in front of a tree in the garden, and being perceptually related to it, sufficient to have the thought that there is a tree in the garden.
+ Мы можем представить себе субъект, расположенный перед деревом в саду и перцептивно связанный с ним, достаточный для того, чтобы у нас возникла мысль, что в саду есть дерево.
+
+ The situated thought involves appropriating in thought that subject’s perspective onto the perceptual scene that corresponds to the bare propositional content: thinking ourselves into what is involved for the subject in his being positioned as he is in grasping the perceptual content.
+ Ситуационная мысль предполагает присвоение в мышлении перспективы субъекта на сцену восприятия, которая соответствует голому пропозициональному содержанию: мы думаем о том, что задействовано для субъекта в его позиционировании, как он находится в схватывании содержания восприятия.
+
+ The situated thought in this case allows the envisaged subject not only to grasp that there is a tree in the garden, with all that that proposition implies (e.
+ Расположенная мысль в этом случае позволяет воображаемому субъекту не только уловить, что в саду есть дерево, со всем, что подразумевает это предложение (например,
+
+ that there is at least one tree in the world, etc.
+ что на свете есть хотя бы одно дерево и т. д.
+
+ It is clearly not a valid deductive inference from one proposition to another.
+ Очевидно, что это недействительный дедуктивный вывод из одного предложения в другое.
+
+ I might, for example, be in a laboratory vehicle, receiving pictures on a screen from a camera that I know is in the garden, but not know that the vehicle I am in has also moved into the garden, just below the operative camera.
+ Я мог бы, например, находиться в лабораторном автомобиле и получать изображения на экране с камеры, которая, как я знаю, находится в саду, но не знать, что машина, в которой я нахожусь, также переехала в сад, прямо под оперативную камеру.
+
+ If we restore that connection, so that the thought is grasped  from my point of view and informed by it  , then the mere having of the thought licenses the move to ‘There is a tree in front of me’.
+Если мы восстановим эту связь, так что мысль будет схвачена с моей точки зрения и информирована ею, тогда простое наличие мысли разрешает переход к «Передо мной дерево».
+
+ The move from the one proposition to the other is synthetic: there is more in the thought that there is a tree in front of me than there is in the thought that there is a tree in the garden.
+ Переход от одного предложения к другому является синтетическим: в мысли о том, что передо мной есть дерево, больше, чем в мысли о том, что в саду есть дерево.
+
+ Yet the move from the one to the other can be made a priori, in the sense that no further observational input is required.
+ Однако переход от одного к другому может быть сделан априори, в том смысле, что не требуется никаких дополнительных данных наблюдений.
+
+ What validates the move is something other than a conceptual relation between propositions.
+ Подтверждением этого шага является нечто иное, чем концептуальные отношения между предложениями.
+
+ It is not the content of the thought expressed by  q  , but what the situated thinker brings to the thinking of it, that stands to carry that thinker from the truth of the one thought to the truth of the other.
+ Не содержание мысли, выраженной q, а то, что привносит в мышление о ней находящийся мыслитель, должно привести этого мыслителя от истины одной мысли к истине другой.
+
+   (Here it is relevant that the situatedness of the thought  There is a tree in the garden   cannot be incorporated as part of the propositional content of the thought.
+   (Здесь важно, что ситуативность мысли «В саду есть дерево» не может быть включена как часть пропозиционального содержания мысли.
+
+ I will return to this later.
+ Я вернусь к этому позже.
+
+) Now, this example seems trivial, and its simplicity helps to bring out what is meant by talk of a thought being situated.
+) Этот пример кажется тривиальным, и его простота помогает понять, что имеется в виду, когда говорят о расположении мысли.
+
+   But the connection between situated thought and transcendental proof is immediately brought out by this further example: Take the content expressed by ‘MS does not exist now’.
+   Но связь между ситуативной мыслью и трансцендентальным доказательством сразу же проявляется в следующем примере: возьмем содержание, выраженное словами: «МС сейчас не существует».
+
+ As a mere thought content, unsituated, it is not very interesting.
+ Как простое мыслительное содержание, не ситуативное, оно не очень интересно.
+
+ It says merely that MS does not exist; and of course he may not.
+ Там просто говорится, что MS не существует; и, конечно, он не может.
+
+ But as a situated thought by MS, the thought may be informed by the fact that the thinker himself is MS, that it is MS himself thinking it.
+ Но как мысль, находящаяся в М.С., мысль может быть проинформирована тем фактом, что мыслитель сам является М.С., что это сам М.С. думает об этом.
+
+ So situated, the otherwise innocuous proposition constitutes the  cogito   proof.
+ В таком положении безобидное в других отношениях утверждение представляет собой доказательство cogito.
+
+ Indeed, the  cogito   seems to be a prime example of a proof that trades on situated thought.
+ Действительно, cogito кажется ярким примером доказательства, основанного на ситуативной мысли.
+
+ Of course, the  cogito   is more usually expressed in terms of the first-person pronoun, say in the form ‘I do not exist.
+ Конечно, cogito чаще выражается местоимением первого лица, скажем, в форме «Я не существую».
+
+’ But the situatedness of the thought is still in play: it is only to the thinker whose thought is informed by the fact that he himself, at the moment of thought, is also the subject of the thought, that the thought ‘I do not exist’ is presented as selfrefuting in a way that comprises the  cogito   proof.
+Но ситуативность мысли все еще в силе: только для мыслителя, чья мысль информирована тем фактом, что он сам в момент мысли также является субъектом мысли, возникает мысль: «Я не существуют» представлено как самоопровергающееся, что включает в себя доказательство cogito.
+
+    The same goes for the more usual form of the  cogito  , ‘I think, (therefore) I exist.
+    То же самое относится и к более обычной форме cogito: «Я мыслю (следовательно) существую».
+
+’ If it is construed merely as an argument from one proposition, the understanding of which is unsituated, to another, we miss, or are at a loss to explain, the force of the argument.
+Если его истолковывать просто как аргумент от одного положения, понимание которого не является ситуативным, к другому, мы упускаем или не можем объяснить силу аргумента.
+
+ What drives the proof, what licenses the ‘therefore’, is only the situated thought, the act of thinking the first proposition, which brings the thinker ineluctably to the conclusion, while he is so thinking, that he must exist.
+ То, что движет доказательством, то, что разрешает «следовательно», — это только расположенная мысль, акт обдумывания первого предложения, который неизбежно приводит мыслителя, пока он так думает, что он должен существовать.
+
+ A central feature of situated thought, noted above, should be underlined here.
+ Здесь следует подчеркнуть центральную особенность ситуативного мышления, отмеченную выше.
+
+ A thought that is not situated may be considered as pure propositional or conceptual content.
+ Мысль, которая не находится в определенном положении, может рассматриваться как чистое пропозициональное или концептуальное содержание.
+
+ The content may be considered as if from no point of view.
+ Содержание можно рассматривать как бы без какой-либо точки зрения.
+
+ In a situated thought, that is not the case.
+ В расположенной мысли это не так.
+
+ In situated thought the content of the thought is informed by the way the subject is epistemically positioned in relation to the facts that make the bare proposition true.
+ В ситуативном мышлении содержание мысли определяется тем, как субъект эпистемически позиционируется по отношению к фактам, которые делают простое предложение истинным.
+
+ This means that the content of a situated thought is not merely propositional.
+ Это означает, что содержание ситуативной мысли не просто пропозиционально.
+
+ Thus in the examples above it is not the purely propositional content "There is a tree in the garden"  , but the cognition generated by the actual or envisaged experience of the tree in the garden, that is the situated thought; it is not the propositional content "I am thinking" , but the cognition generated by the actual or envisaged experience of my thinking, that is the situated thought in question.
+ Таким образом, в приведенных выше примерах не чисто пропозициональное содержание «В саду есть дерево», а познание, порожденное действительным или воображаемым опытом дерева в саду, является ситуативной мыслью; речь идет не о пропозициональном содержании «я мыслю», а о познании, порожденном действительным или воображаемым опытом моего мышления.
+
+ This brings out the sense in which situated thought forces a shift from the purely propositional or semantic level to the level of pure phenomenological description.
+ Это выявляет тот смысл, в котором ситуационная мысль вызывает переход с чисто пропозиционального или семантического уровня на уровень чистого феноменологического описания.
+
+ Now the claim here is that the link between the cogito and situated thought is characteristic of transcendental proof: that central transcendental arguments typically trade on situated thoughts to make good their synthetic a priori claims.
+ Здесь утверждается, что связь между cogito и ситуативной мыслью характерна для трансцендентального доказательства: центральные трансцендентальные аргументы обычно используют ситуативные мысли, чтобы оправдать свои синтетические априорные утверждения.
+
+ We have said that in most transcendental arguments there will be at least one central proposition that shadows a synthetic move – the idea is that the truth of that proposition can be established a priori as required only if it is understood to involve situated thought.
+Мы сказали, что в большинстве трансцендентальных аргументов будет по крайней мере одно центральное предложение, которое оттеняет синтетический ход – идея состоит в том, что истинность этого предложения может быть установлена априори, как это требуется, только если понимать, что оно включает в себя ситуативное мышление.
+
+  Part 6: Two Case Studies: Kant on SUbstance and on Causality.
+  Часть 6: Два тематических исследования: Кант о субстанции и причинности.
+
+  To take an example of a transcendental argument from Kant, let us consider the central move in the First Analogy to be: All change is merely the alteration of an abiding substance.
+  Чтобы взять пример трансцендентального аргумента Канта, давайте рассмотрим центральный ход Первой аналогии: «Все изменения — это просто изменение неизменной субстанции».
+
+17 When it is considered as a bare propositional content, it is difficult to see why this should be a true statement.
+17 Если рассматривать его как чистое пропозициональное содержание, трудно понять, почему это утверждение должно быть истинным.
+
+ It sounds like a bit of metaphysical dogma.
+ Это звучит как метафизическая догма.
+
+ It is certainly not analytic; and it is difficult to see how as a synthetic claim there can be any corresponding fact in the world that empirically verifies or refutes it even a posteriori.
+ Это, конечно, не аналитический подход; и трудно понять, как в качестве синтетического утверждения может существовать какой-либо соответствующий факт в мире, который эмпирически подтверждает или опровергает его, даже апостериорно.
+
+ The recognition of its a priori truth arises only when the sentence is taken to be expressive of a situated thought.
+ Признание его априорной истинности возникает только тогда, когда предложение считается выражающим находящуюся в нем мысль.
+
+18 To see this – and also to see how close situated thought is to transcendental insight – we can go back to the seemingly more trivial example of the two already mentioned.
+18 Чтобы увидеть это – а также увидеть, насколько близка мысль к трансцендентальному постижению – мы можем вернуться к, казалось бы, более тривиальному примеру из двух, уже упомянутых.
+
+ The envisaged experience of that tree can be embellished.
+ Предполагаемое переживание этого дерева можно приукрасить.
+
+ The tree is struck by lightning and goes up in a sudden cloud of smoke.
+ В дерево ударяет молния, и оно внезапно поднимается в облаке дыма.
+
+ To have, as a situated thought, the content "There was a tree in the garden, and now there is not a tree in the garden" , rather than merely entertaining the corresponding propositional content, is to have or envisage having the experience of me not encountering a tree now, where earlier I did.
+ Иметь в качестве ситуативной мысли содержание «В саду было дерево, а теперь в саду нет ни одного дерева», а не просто иметь соответствующее пропозициональное содержание, значит иметь или представлять себе переживание меня. теперь я не встретил дерева, как раньше.
+
+ But for that situated thought to make sense, it would have to be thought that there is, throughout, something in front of me, a perceptual backdrop, such that the demise of the tree is an event, an alteration, of that underlying substrate.
+ Но для того, чтобы эта расположенная мысль имела смысл, нужно было бы думать, что повсюду передо мной есть что-то, перцептивный фон, так что упадок дерева является событием, изменением этого основного субстрата.
+
+ As Kant puts it: ‘A coming to be or ceasing to be that is not simply a determination of the permanent but is absolute, can never be a possible perception.
+ Как выразился Кант: «Появление или прекращение существования, которое является не просто определением постоянного, но и абсолютным, никогда не может быть возможным восприятием».
+
+’19 For the change between there being a tree in the garden at t1 and there being no tree in the garden at t2 to be given within the confines of one situated thought, there must be presupposed, within the domain that the thought encompasses, an abiding spatio-temporal world.
+'19 Чтобы изменение между наличием дерева в саду в момент времени 1 и отсутствием дерева в саду в момент времени 2 можно было дать в пределах одной находящейся мысли, необходимо в пределах области, которую охватывает эта мысль, предполагать неизменный пространственно-временной мир.
+
+ something that persists across the tree-related experiences, sufficient to afford unity to the situated thought.
+ нечто такое, что сохраняется в связанных с деревом переживаниях и достаточное, чтобы обеспечить единство находящейся мысли.
+
+ Now, whether the non sequitur attributed to Kant here can be made good20 need not be of concern in the present context.
+ Теперь, в данном контексте не должно вызывать беспокойства вопрос о том, может ли быть исправлено приписанное Канту здесь нелогично20.
+
+ Regardless of whether we can move to the conclusion that there must be one abiding substance underlying all change, the point here is the more modest conclusion that there must be something abiding across any one change – that if there weren’t, the perception of change would not be possible.
+ Независимо от того, можем ли мы прийти к выводу, что в основе всех изменений должна быть одна неизменная субстанция, дело здесь в более скромном выводе о том, что в любом изменении должно быть что-то неизменное – что, если бы этого не было, восприятие изменения было бы невозможно.
+
+ That move – from things change to there must be some object that is invariant underlying such a change – is central to the argument, and the a priori truth of it can be brought out by taking up the assertion ‘things change’ in the context of a situated thought: by considering how things are for the situated subject experiencing the change.
+ Этот переход – от изменения вещей к тому, что за таким изменением должен быть какой-то инвариантный объект – является центральным в аргументе, и его априорную истинность можно выявить, взяв утверждение «вещи меняются» в контексте ситуационная мысль: размышление о том, как обстоят дела у находящегося в ситуации субъекта, переживающего изменение.
+
+ It is the situated understanding of the thought that brings out the truth of what is implied a priori by it.
+ Именно ситуативное понимание мысли выявляет истину того, что ею априори подразумевается.
+
+ Nothing else can bring it out; but more importantly, nothing else is needed to bring it out – and this even though the move in question is not analytic but rather is informative about how the world must hold together in our experience of it.
+ Ничто другое не может вызвать это; но, что еще более важно, ничего больше не нужно, чтобы это выявить – и это несмотря на то, что рассматриваемый ход не является аналитическим, а, скорее, информативным о том, как мир должен сохранять целостность в нашем опыте его существования.
+
+ An objection should be raised at this point.
+ Здесь следует высказать возражение.
+
+ Why could the change in question not be perceived without there being anything in the external world underlying, and so perceptually bridging, the gap between the situated thought contents, of what there is in the garden at t1 and at t2?
+ Почему рассматриваемое изменение не может быть воспринято без чего-либо во внешнем мире, лежащего в основе и таким образом перцептивно перекрывающего разрыв между расположенными содержаниями мысли и тем, что находится в саду в момент t1 и в момент t2?
+
+ It may be granted that to be able to calibrate the two there must be something that remains unchanged, but why should it be specifically something external?
+ Можно допустить, что для того, чтобы можно было откалибровать эти две вещи, должно быть что-то, что остается неизменным, но почему это должно быть именно что-то внешнее?
+
+ Now, if we accept the Kantian view that subjective apprehension is always successive and atomistic, then arguably the only thing that can make the two perceptions commensurable, is if they are perceived  as so many alterations of a single underlying external world.
+ Теперь, если мы примем точку зрения Канта о том, что субъективное восприятие всегда последовательно и атомистично, то, возможно, единственное, что может сделать эти два восприятия соизмеримыми, - это если они воспринимаются как множество изменений единого лежащего в основе внешнего мира.
+
+ (Without that, we could not even make sense of the two situated thoughts belonging to a single subject.
+(Без этого мы не смогли бы даже понять смысл двух расположенных мыслей, принадлежащих одному субъекту.
+
+) But that would count against the present attempt to construe transcendental arguments in terms of situated thought.
+) Но это противоречило бы нынешней попытке истолковать трансцендентальные аргументы в терминах ситуативного мышления.
+
+ The point of this construal is that the validity of transcendental arguments should be established a priori just from the situatedness of the relevant thoughts, without any dependence on the psychological make-up of the thinker.
+ Суть этой интерпретации состоит в том, что достоверность трансцендентальных аргументов должна быть установлена априори только на основе ситуации соответствующих мыслей, без какой-либо зависимости от психологического склада мыслителя.
+
+ Insisting on experience being successive and atomistic would precisely be to introduce commitment to a form of transcendental or empirical psychology.
+ Настаивать на том, чтобы опыт был последовательным и атомистическим, означало бы вводить приверженность определенной форме трансцендентальной или эмпирической психологии.
+
+ Moreover, it is not as if there are no psychological models that reject one or both of those conceptions.
+ Более того, дело не в том, что не существует психологических моделей, отвергающих одну или обе эти концепции.
+
+ There are several possible lines of response to this objection.
+ На это возражение есть несколько возможных вариантов ответа.
+
+ The most obvious response would be to grant the objection, but argue that it does not count against the understanding of transcendental arguments in terms of situated thoughts: that on the contrary, it shows only that Kant’s argument in the First Analogy is not a very good transcendental argument, precisely because it seems to turn centrally on more than pure situated thought.
+ Наиболее очевидным ответом было бы согласиться с этим возражением, но доказать, что оно не противоречит пониманию трансцендентальных аргументов с точки зрения ситуативных мыслей: напротив, это показывает лишь то, что аргумент Канта в Первой аналогии не очень хорош. трансцендентальный аргумент именно потому, что он, по-видимому, обращает внимание не только на чисто ситуативную мысль.
+
+ Alternatively, it might be thought that Kant has saddled what would be a valid proof with a substantive model of the mind.
+ С другой стороны, можно подумать, что Кант оседлал то, что могло бы стать веским доказательством, содержательной моделью разума.
+
+ There would then be several ways of prising the argument and the psychological model apart, and one is particularly relevant in the present context.
+ Тогда будет несколько способов разделить этот аргумент и психологическую модель, и один из них особенно актуален в данном контексте.
+
+ Without going into background detail, it is enough for present purposes to note that the argument can be freed from reliance on that psychological model to the extent that the change in question is not construed as possibly being a change merely between mental states, but rather is confined to a change in perceptions purportedly of external objects, such that not only the subjective experiences but also the apprehended states of affairs are themselves supposed to be temporally structured.
+ Не вдаваясь в подробности, для настоящих целей достаточно отметить, что этот аргумент может быть освобожден от опоры на эту психологическую модель в той степени, в которой рассматриваемое изменение не может быть истолковано как возможное изменение просто между психическими состояниями, а, скорее, является ограничивается изменением восприятия якобы внешних объектов, так что не только субъективные переживания, но и воспринимаемые положения дел сами по себе считаются структурированными во времени.
+
+21 For these latter to be presented as changing in relation to one another, or as abiding, there must also be an abiding external world on the backdrop of which it makes sense to say either that where one object was there is now another, or that where one object was there is still the same object.
+21 Для того, чтобы эти последние можно было представить как изменяющиеся по отношению друг к другу или как постоянные, должен также существовать постоянный внешний мир, на фоне которого имеет смысл говорить либо, что там, где был один объект, теперь находится другой, или что там, где был один объект, остается тот же объект.
+
+ That is, the only way for a subject to be so situated with regard to the tree and the puff of smoke as to make sense of there being an objective change from the one to the other, is if the subject is also confronted with a single background world that remains constant throughout the change.
+ То есть единственный способ для субъекта занять такое положение по отношению к дереву и клубу дыма, чтобы понять объективное изменение одного в другое, — это если субъект также сталкивается с одним-единственным фоновый мир, который остается постоянным на протяжении всего изменения.
+
+ For an experience to represent its objects, say, the disappearance of the tree and the appearance of a puff of smoke, as standing in objective relations, those objects must be construed as modifications of that abiding world.
+ Чтобы опыт представлял свои объекты, скажем, исчезновение дерева и появление облака дыма, как находящиеся в объективных отношениях, эти объекты должны быть истолкованы как модификации этого постоянного мира.
+
+ And this follows regardless of whether our experience is always atomistic and successive, or is given whole as an organically unified stream.
+ И это следует независимо от того, всегда ли наш опыт атомичен и последователен или дан целиком, как органически единый поток.
+
+ In the latter case there may be no need to appeal to an abiding external world to explain the unity of consciousness, and the two experiences – as of a tree and of a cloud of smoke – would be related to one another by virtue of being the contents of a unified subjective order.
+ В последнем случае, возможно, не будет необходимости обращаться к постоянному внешнему миру для объяснения единства сознания, и два опыта – как дерева и облака дыма – будут связаны друг с другом в силу того, что они являются содержание единого субъективного порядка.
+
+ But objectually construed, those contents – tree and smoke – would stand to be incommensurable: like the contents of distinct dreams, discretely anchored, that could not be coherently plotted in relation to one another (although the occurrence of the dreams themselves arguably could).
+ Но в объективном понимании эти содержания – дерево и дым – оказались бы несоизмеримыми: подобно содержанию отдельных сновидений, дискретно закрепленных, которые не могут быть связно построены по отношению друг к другу (хотя возникновение самих сновидений, возможно, возможно).
+
+ For a thinker to be situated with regard to both object domains together so as to make sense of there being relations between their denizens, even if only of temporal succession, there would have to be a common world in which the two objectual contents made their appearance.
+ Для того чтобы мыслитель мог расположиться по отношению к обеим объектным областям вместе и придать смысл существованию отношений между их обитателями, хотя бы только временной последовательности, должен был бы существовать общий мир, в котором оба объектных содержания проявились бы. .
+
+ The idea then, in response to the objection raised, is that while there might be a construal of the argument that turns on a particular psychological theory, and to that extent fails to offer a fully transcendental proof, the specific line of argument presented here does not suffer that restriction, and turns only on the a priori presuppositions of situated thought.
+ Идея, таким образом, в ответ на выдвинутое возражение состоит в том, что, хотя и может быть истолкована аргументация, которая опирается на конкретную психологическую теорию и в этой степени не может предложить полностью трансцендентального доказательства, конкретная линия аргументации, представленная здесь, делает это. не терпит этого ограничения и опирается только на априорные предпосылки ситуативной мысли.
+
+ I turn now to a second example of a transcendental argument, also drawn from Kant.
+Теперь я перехожу ко второму примеру трансцендентального аргумента, также взятому у Канта.
+
+ The central proposition of the Second Analogy, on one construal of it, is that everything that happens (= every event) has its cause.
+ Центральное положение Второй аналогии, если ее интерпретировать, заключается в том, что все происходящее (= каждое событие) имеет свою причину.
+
+ Again, as a mere proposition it looks like a piece of metaphysics.
+ Опять же, как простое предложение, это выглядит как часть метафизики.
+
+ And Kant is clear that no one can acquire insight into that proposition merely from attending to the concepts involved, and yet that it is known ‘with complete apodictic certainty’.
+ И Кант ясно дает понять, что никто не может понять это положение, просто обращая внимание на соответствующие понятия, и тем не менее оно известно «с полной аподиктической достоверностью».
+
+ We can again understand what Kant means, by regarding the intended transcendental proof as a matter of discovering the presuppositions of having the situated thought that underpins the central proposition.
+ Мы снова можем понять, что имеет в виду Кант, рассматривая предполагаемое трансцендентальное доказательство как вопрос открытия предпосылок наличия расположенной мысли, лежащей в основе центрального предложения.
+
+ We need to ask, on this construal, what is involved in someone actually having the experience of something as being an event.
+ В этой интерпретации нам нужно задаться вопросом, что означает, что кто-то действительно переживает что-то как событие.
+
+ It seems clear that where my perception is as of an event, rather than as of two coexisting states of affairs, there the order of the perceptions involved is irreversible.
+ Кажется очевидным, что там, где мое восприятие происходит как событие, а не как два сосуществующих положения дел, там порядок восприятий необратим.
+
+ That irreversibility is the mark of event-perception.
+ Эта необратимость является признаком восприятия событий.
+
+ The question then is, what in my experience secures that irreversibility?
+ Тогда возникает вопрос: что, по моему опыту, обеспечивает эту необратимость?
+
+ What in the circumstances of my experience could render two perceptions such that they could not have occurred in reverse order?
+ Что в обстоятельствах моего опыта могло сделать два восприятия такими, что они не могли произойти в обратном порядке?
+
+ And Kant thinks that the subject would be faced with irreversibility of the two perceptions only if the perceived states of affairs involved in them were put together in such a way that the one state could not have happened except consequent upon the other.
+ И Кант думает, что субъект столкнулся бы с необратимостью двух восприятий только в том случае, если бы воспринимаемые положения дел, связанные с ними, были сложены вместе таким образом, что одно состояние не могло бы произойти, кроме как как следствие другого.
+
+ We might put the relevant point by saying say that it is only thus that the subject can, internal to the resources given to him in experience, establish the objectual states of affairs involved as themselves being in succession, and hence explain the irreversibility of his perceptions of them.
+ Мы могли бы поставить соответствующую точку зрения, сказав, что только таким образом субъект может, внутренне по отношению к ресурсам, данным ему в опыте, установить рассматриваемые объектные положения дел как находящиеся в последовательности и, следовательно, объяснить необратимость его восприятий. из них.
+
+ But that is just to affirm a law-governed order (which constitutes a form of causality for Kant) holding within the objectual domain wherever we are entitled to talk of experiencing events.
+ Но это всего лишь подтверждение закономерного порядка (который для Канта представляет собой форму причинности), действующего внутри объектной области везде, где мы имеем право говорить о переживании событий.
+
+ It is important to note that the conclusion of the argument is not simply that we must have a belief in a causal order, but that such belief must be true to the facts, in this sense: the empirical world of which we have experience must be causally governed.
+ Важно отметить, что вывод аргумента состоит не просто в том, что мы должны иметь веру в причинный порядок, но в том, что такая вера должна быть верна фактам в том смысле, что эмпирический мир, опыт которого мы имеем, должен быть причинно управляемая.
+
+ Saying that the experienced world must be causally governed does not mean that our knowledge that it is so governed is part of what is given as the content of our perceptual experience.
+ Утверждение, что переживаемый мир должен управляться причинно, не означает, что наше знание о том, что он управляется таким образом, является частью того, что дано как содержание нашего перцептивного опыта.
+
+ The content of our perceptual experience of the world clearly may be insufficient to establish that it is causally ordered (for all the Humean reasons that Kant was responding to).
+ Содержимого нашего перцептивного опыта мира явно может быть недостаточно, чтобы установить, что он причинно упорядочен (по всем юмовским причинам, на которые отвечал Кант).
+
+ What the Kantian argument purports to show is that there is another route to establishing that the world we experience must be causally ordered.
+ Аргумент Канта призван показать, что существует другой путь к установлению того, что мир, который мы переживаем, должен быть причинно упорядочен.
+
+ Our belief in the causal ordering of the world will necessarily correspond to the facts about the world we experience – since those causal facts are required for experience to have the structure it does have – even if those facts cannot be read off directly from the content of our perceptual experience of that world.
+ Наша вера в причинный порядок мира обязательно будет соответствовать фактам о мире, который мы переживаем (поскольку эти причинные факты необходимы для того, чтобы опыт имел ту структуру, которую он имеет), даже если эти факты не могут быть вычитаны непосредственно из содержания наш перцептивный опыт этого мира.
+
+ The importance of this, in the present context, is in bringing out that the deliverances of situated thoughts are not confined to the phenomenologically given contents of perceptual states, but rather can extend to non-perceptual descriptions of how the world, in our experience of it, must hang together.
+ Важность этого в данном контексте состоит в том, чтобы показать, что высвобождение ситуативных мыслей не ограничивается феноменологически данным содержанием состояний восприятия, а, скорее, может распространяться на неперцептивные описания того, как мир в нашем опыте оно должно держаться вместе.
+
+24 This construal of the Second Analogy helps to bring out the sense in which it can be said that a situated understanding of the implication expressed by the proposition "Everything that happens (every event) has its cause"  provides the grounds for the truth of the proposition itself.
+24 Такая интерпретация Второй аналогии помогает выявить тот смысл, в котором можно сказать, что ситуативное понимание импликации, выраженной утверждением «Все, что происходит (каждое событие) имеет свою причину», дает основание для истинности этого утверждения. само предложение.
+
+ Considering what is required for us to be so situated as to have the experience of irreversible perceptual states of an object world, and hence of the occurrence of events in it, reveals that the states of affairs involved must themselves be governed by causal laws.
+ Рассмотрение того, что требуется для того, чтобы мы находились в таком положении, чтобы иметь опыт необратимых состояний восприятия объектного мира и, следовательно, возникновения событий в нем, показывает, что соответствующие положения дел сами должны управляться причинными законами.
+
+ The general claim here is that as in these cases, of the First and Second Analogies, so in other central transcendental arguments there will be at least one proposition the appropriate understanding of which – and establishing the truth of which – involves situated thought.
+Общее утверждение здесь состоит в том, что, как и в этих случаях Первой и Второй Аналогий, так и в других центральных трансцендентальных аргументах будет, по крайней мере, одно предложение, подходящее понимание которого – и установление истинности которого – предполагает ситуативное мышление.
+
+ This is what might be put by saying that the crucial synthetic moves involved in transcendental arguments stand to be established a priori only by the relation of the propositional content to possible experience.
+ Именно это можно было бы выразить, сказав, что решающие синтетические ходы, включенные в трансцендентальные аргументы, могут быть установлены априорно только посредством отношения содержания высказывания к возможному опыту.
+
+  Part 7: Reflections.
+  Часть 7: Размышления.
+
+  With this approach to transcendental arguments in place, some important features of these arguments stand to be explained.
+  При таком подходе к трансцендентальным аргументам необходимо объяснить некоторые важные особенности этих аргументов.
+
+ First, the construal of central moves as situated thoughts casts some light on the question of whether the transcendental proofs in which those moves play a part are formal deductive inferences.
+ Во-первых, истолкование центральных ходов как ситуативных мыслей проливает некоторый свет на вопрос о том, являются ли трансцендентальные доказательства, в которых эти ходы играют роль, формальными дедуктивными умозаключениями.
+
+ Something was said about this earlier in anticipation, but it is worth returning to it now.
+ Кое-что об этом говорилось ранее в предвкушении, но стоит вернуться к этому сейчас.
+
+ There was a lively discussion surrounding the question of the formal validity of transcendental arguments several years ago, but it trailed off before any clear conclusion was reached.
+ Несколько лет назад вокруг вопроса о формальной обоснованности трансцендентальных аргументов шла оживленная дискуссия, но она затихла, не успев прийти к какому-либо четкому выводу.
+
+26 The treatment here implies that construing these arguments as formally valid inferences cannot be adequate.
+26 Здесь подразумевается, что истолкование этих аргументов как формально обоснованных выводов не может быть адекватным.
+
+ Formal deductive arguments range over, and turn on, relations between propositions or sentences.
+ Формальные дедуктивные аргументы охватывают отношения между предложениями и предложениями и включают их.
+
+ But the content of a situated thought cannot be fully captured as propositional content: the content as delivered by the situatedness of the thinker essentially extends beyond anything that the mere propositional construal of the content can deliver.
+ Но содержание ситуационной мысли не может быть полностью уловлено как пропозициональное содержание: содержание, передаваемое ситуативностью мыслителя, по существу выходит за рамки всего, что может дать простая пропозициональная интерпретация содержания.
+
+ Because of this, although the over-all form of a transcendental argument might seem to be of a deductively valid argument (e.
+ Из-за этого, хотя общая форма трансцендентального аргумента может показаться дедуктивно обоснованным аргументом (т.
+
+ extended modus ponens), when it comes to the central individual moves of the argument the notion of presupposition or necessary condition involved cannot be brought into play as long as we attend only to conceptual or propositional contents.
+ расширенный modus ponens), когда дело доходит до центральных индивидуальных ходов аргументации, понятие пресуппозиции или необходимого условия не может быть задействовано, пока мы обращаем внимание только на концептуальное или пропозициональное содержание.
+
+ It is precisely in consequence of acknowledging this that we have secured the relevant notion of a necessary condition – or an epistemic condition – that does allow those moves to be made a priori.
+ Именно в результате признания этого мы получили соответствующее понятие необходимого условия – или эпистемического условия – которое действительно позволяет делать эти шаги априори.
+
+ If the notion of ‘argument’ is readily taken to stand for relations between propositions or sentences (ideally such relations as constitute valid deductive forms), then it might be better to avoid confusion by talking primarily of transcendental proofs rather than transcendental arguments.
+ Если понятие «аргумент» легко воспринимается как отношение между суждениями или предложениями (в идеале такие отношения, которые составляют действительные дедуктивные формы), то, возможно, было бы лучше избежать путаницы, говоря в первую очередь о трансцендентальных доказательствах, а не о трансцендентальных аргументах.
+
+ Transcendental proofs are (or stand to be) valid a priori, but the necessary conditions that their crucial moves advert to are not between propositions or concepts, but between situated thought contents.
+ Трансцендентальные доказательства действительны (или должны быть) априори, но необходимые условия, к которым обращаются их решающие ходы, находятся не между предложениями или понятиями, а между расположенными содержаниями мысли.
+
+ We can put it this way: the over-all proof in which those situated thoughts feature as the grounds for the central moves can be articulated as a deductive inference, but only to the extent that those central ampliative moves are taken as premised in the course of the argument, it being acknowledged that they need to be separately established by way of transcendental proof, which requires departing from the purely propositional level of understanding to situated thought.
+ Мы можем выразить это так: общее доказательство того, что эти расположенные мысли выступают в качестве оснований для центральных движений, может быть сформулировано как дедуктивный вывод, но только в той степени, в которой эти центральные амплиативные движения принимаются как предпосылки в курсе. аргумента, при этом признается, что они должны быть установлены отдельно посредством трансцендентального доказательства, которое требует отхода от чисто пропозиционального уровня понимания к ситуативному мышлению.
+
+ As valid deductive inferences transcendental arguments are then parasitic on transcendental proofs, at least if they are to retain any epistemological interest.
+ Будучи действительными дедуктивными выводами, трансцендентальные аргументы в таком случае паразитируют на трансцендентальных доказательствах, по крайней мере, если они хотят сохранить какой-либо эпистемологический интерес.
+
+ It is interesting to note in this context that Kant himself does not usually speak of transcendental arguments, but of transcendental proofs.
+ В этом контексте интересно отметить, что сам Кант обычно говорит не о трансцендентальных аргументах, а о трансцендентальных доказательствах.
+
+ We should perhaps not read that much into this terminological fact; nevertheless, in speaking of transcendental proof, Kant says things that readily suggest the difference captured here in terms of the distinction between propositional/conceptual contents and situated thoughts, here is citation.
+ Возможно, нам не следует так много придавать этому терминологическому факту; тем не менее, говоря о трансцендентальном доказательстве, Кант говорит вещи, которые легко наводят на мысль о различии, зафиксированном здесь в терминах различия между пропозициональным/понятийным содержанием и ситуативными мыслями, вот цитата.
+
+ In transcendental knowledge, so long as we are concerned only with concepts of the understanding, our guide is the possibility of experience.
+ В трансцендентальном познании, пока нас интересуют только концепции понимания, нашим руководителем является возможность опыта.
+
+ Such proof does not show that the given concept (for instance, of that which happens) leads directly to another concept (that of a cause); for such a transition would be a saltus which could not be justified.
+ Такое доказательство не показывает, что данное понятие (например, того, что происходит) непосредственно ведет к другому понятию (пониманию причины); ибо такой переход был бы скачком, который не мог быть оправдан.
+
+ The proof proceeds by showing that experience itself, and therefore the objects of experience, would be impossible without a connection of this kind.
+Доказательство продолжается тем, что показывает, что сам опыт, а следовательно, и объекты опыта были бы невозможны без связи такого рода.
+
+ Accordingly, the proof must also at the same time show the possibility of arriving synthetically and a priori at some knowledge of things which was not contained in the concepts of them.
+ Соответственно, доказательство должно в то же время показать возможность синтетически и априорно прийти к некоторому знанию о вещах, которое не содержалось в понятиях о них.
+
+ Understanding transcendental proofs in terms of the necessary conditions of situated thoughts not only serves to set such proofs aside from others, but also explains why what makes them unique precisely fits them to be called transcendental proofs, in Kant’s specific use of the term: as identifying that which is presuppositional to experience.
+ Понимание трансцендентальных доказательств с точки зрения необходимых условий положения мыслей не только помогает выделить такие доказательства среди других, но также объясняет, почему то, что делает их уникальными, именно позволяет им называться трансцендентальными доказательствами в конкретном использовании этого термина Кантом: как идентифицирующие. то, что является предпосылкой к переживанию.
+
+ In dealing with the conditions of having situated thought, such proofs precisely investigate how things must be held together for experience to be possible.
+ Говоря об условиях локализованного мышления, такие доказательства как раз исследуют, как вещи должны удерживаться вместе, чтобы опыт стал возможен.
+
+ It is because of this that transcendental proofs will always start from the basic situatedness of thought: from the fact that I have experience, or that all my experiences are mine.
+ Именно поэтому трансцендентальные доказательства всегда будут начинаться с основной ситуации мысли: с того факта, что я имею опыт или что все мои переживания являются моими.
+
+ This makes it clear that it is not that there are transcendental arguments, and that the interesting ones will start from some premiss that the sceptic cannot doubt, such as that we have experience.
+ Это проясняет, что дело не в том, что существуют трансцендентальные аргументы, а в том, что интересные аргументы начинаются с какой-то предпосылки, в которой скептик не может сомневаться, например, что у нас есть опыт.
+
+ It is rather in the very nature of anything properly called a transcendental argument or proof that it must have such a premiss.
+ Скорее всего, в самой природе всего, что правильно называется трансцендентальным аргументом или доказательством, должна быть такая посылка.
+
+ That it might thereby answer the sceptic is more or less a fortunate by-product.
+ То, что оно могло таким образом ответить скептику, является более или менее удачным побочным продуктом.
+
+ A second feature, connected to this, relates to the status of these conditions.
+ Вторая особенность, связанная с этим, касается состояния этих условий.
+
+ To take the example of the argument for permanence drawn from the First Analogy, an abiding world might be sufficient, but what renders it also necessary for the experience of objective change or, more generally, of temporal relations in the object-world?
+ Если взять пример аргумента в пользу постоянства, взятого из Первой аналогии, постоянного мира может быть достаточно, но что делает его необходимым также для опыта объективных изменений или, в более общем плане, временных отношений в объектном мире?
+
+ How do we establish that no other way of securing such experiences is possible?
+ Как мы можем доказать, что никакой другой способ получить такой опыт невозможен?
+
+ There is a very general sense in which we cannot rule out alternatives – the sense in which God could make anything work differently.
+ Существует очень общий смысл, в котором мы не можем исключать альтернативы – смысл, в котором Бог может заставить что-либо работать по-другому.
+
+ But since that is seemingly true of basic mathematical truths and laws of logic too, that restriction on necessity claims need not be of special concern here.
+ Но поскольку это, по-видимому, справедливо и в отношении основных математических истин и законов логики, это ограничение требований необходимости не должно вызывать здесь особого беспокойства.
+
+ Leaving aside that general sense in which nothing can be claimed to be absolutely necessary, the point is that the link established a priori here, between a situated thought and its epistemic conditions, is so direct that we cannot even begin to identify, or conceive of there being, any mediating mechanism which might be displaced (in other times or places).
+ Оставляя в стороне тот общий смысл, в котором ничто не может считаться абсолютно необходимым, дело в том, что связь, установленная здесь априори между ситуативной мыслью и ее эпистемическими условиями, настолько прямая, что мы не можем даже начать идентифицировать или постичь существует какой-либо посреднический механизм, который может быть смещен (в другое время или в другом месте).
+
+ The connections in question seem to be necessary precisely because they are immediate – there is no logical space into which a wedge might be driven, suggesting where modification might occur such as would sustain alternative ways of making possible the situated thoughts in question.
+ Связи, о которых идет речь, кажутся необходимыми именно потому, что они непосредственны – не существует логического пространства, в которое можно было бы вбить клин, предполагая, где могут произойти изменения, которые поддержали бы альтернативные способы сделать возможными рассматриваемые мысли.
+
+ The thing that conceals that direct link, making it seem that one could be had without the other, is that rather than a situated understanding of the thoughts in question the matter is considered at the purely propositional level – at which level there is clearly room for doubt.
+ Эту прямую связь скрывает, создавая впечатление, что одно может существовать без другого, заключается в том, что вместо ситуативного понимания рассматриваемых мыслей вопрос рассматривается на чисто пропозициональном уровне – на этом уровне явно есть место для сомневаться.
+
+ Given that the necessity here is not psychological or metaphysical, and given how direct it is, we might – if only as a way of flagging a point for further work – think of it as a sui generis necessity: the necessity of certain conditions obtaining for situated thought to be possible at all.
+ Учитывая, что необходимость здесь не является психологической или метафизической, и учитывая, насколько она непосредственна, мы могли бы – хотя бы как способ обозначить точку для дальнейшей работы – думать о ней как о необходимости sui Generis: необходимости наличия определенных условий для считалось, что это вообще возможно.
+
+ As such it may suitably be called transcendental necessity, where ‘transcendental’ means precisely being presuppositional to situated thought, or to experience.
+ Как таковую ее можно с полным основанием назвать трансцендентальной необходимостью, где «трансцендентальное» означает именно то, что она является предпосылкой к мысли или к опыту.
+
+ A third feature worth noting is that we have here, in the construal of transcendental arguments in terms of situated thought, an approach to the link between transcendental arguments and transcendental idealism.
+ Третья особенность, которую стоит отметить, заключается в том, что здесь, при трактовке трансцендентальных аргументов в терминах ситуативного мышления, мы имеем подход к связи между трансцендентальными аргументами и трансцендентальным идеализмом.
+
+ Consider the following passage, from the First Analogy.
+ Рассмотрим следующий отрывок из Первой аналогии.
+
+  we ought first to have proved that in all appearances there is something permanent, and that the transitory is nothing but determination of its existence.
+  нам следовало бы прежде всего доказать, что во всех проявлениях есть нечто постоянное и что преходящее есть не что иное, как определение его существования.
+
+ But such a proof cannot be developed dogmatically, that is, from concepts, since it concerns a synthetic apriori proposition.
+Но такое доказательство не может быть развито догматически, т. е. из понятий, поскольку оно касается синтетического априорного предложения.
+
+ Yet as it never occurred to anyone that such propositions are valid only in relation to possible experience, and can therefore be proved only through a deduction of the possibility of experience,29 we need not be surprised that though the above principle is always postulated as lying at the basis of experience (for in empirical knowledge the need of it is felt,) it has never itself been proved.
+ Однако, поскольку никому никогда не приходило в голову, что такие положения действительны только по отношению к возможному опыту и, следовательно, могут быть доказаны только посредством дедукции возможности опыта29, нам не следует удивляться тому, что, хотя вышеупомянутый принцип всегда постулируется как лежащий на основе опыта (ибо в эмпирическом познании ощущается необходимость в нем) оно само никогда не доказывалось.
+
+  Kant’s purpose in talking of the propositions in question being valid only in relation to possible experience is, of course, primarily to indicate his strategy of curtailing the remit of metaphysical claims in order to be able finally to establish their a priori validity.
+  Цель Канта, когда он говорил о том, что рассматриваемые положения действительны только по отношению к возможному опыту, состоит, конечно, прежде всего в том, чтобы указать на свою стратегию ограничения сферы действия метафизических притязаний, чтобы иметь возможность, наконец, установить их априорную значимость.
+
+ But in the present context this talk of propositions that are valid only in relation to possible experience, and which can be proved only through a deduction of the possibility of experience, is again immediately suggestive of the more minimal claim: that the crucial move in the argument can be made good only in relation to situated thought (= possible experience), rather than in terms of bare propositional thought.
+ Но в данном контексте этот разговор о предложениях, которые действительны только по отношению к возможному опыту и которые могут быть доказаны только посредством дедукции возможности опыта, снова сразу же наводят на мысль о более минимальном утверждении: что решающий шаг в аргумент может быть сделан хорошим только в отношении ситуативной мысли (= возможного опыта), а не в терминах голой пропозициональной мысли.
+
+ That a passage, the primary concern of which is to articulate the transcendental idealist setting of the argument, is found amenable to such a construal is, I think, indicative of the fact that something about the notion of situated thought is expressive of an insight in transcendental idealism.
+ Тот факт, что отрывок, основная задача которого состоит в том, чтобы сформулировать трансцендентальную идеалистическую установку аргументации, оказывается поддающимся такой интерпретации, я думаю, указывает на тот факт, что что-то в понятии ситуативной мысли выражает понимание трансцендентальный идеализм.
+
+ And it is an insight that may be retained without the rest of that position.
+ И это понимание может быть сохранено без остальной части этой позиции.
+
+ The underlying connection can be brought out, even without reaching for any transcendental distinctions, by clarifying the way in which the situatedness of thought is both a necessary and a sufficient condition of transcendental proof.
+ Основополагающую связь можно выявить, даже не прибегая к каким-либо трансцендентальным различиям, прояснив, каким образом ситуативность мысли является одновременно необходимым и достаточным условием трансцендентального доказательства.
+
+ If what has been said here is right, then if – per impossibile – a person’s thought could not in any respect be construed by that person as situated, then the conclusions of transcendental proofs would not be available to that person for, specifically a priori, knowledge.
+ Если то, что здесь сказано, верно, то если – per невероятное – мысль человека не может ни в каком отношении быть истолкована этим человеком как находящаяся, то выводы трансцендентальных доказательств не будут доступны этому человеку, поскольку, в частности априори, знание.
+
+ We are to think here of a person whose point of view would be so detached that all of his thoughts were like that in the case of the person observing the garden on a monitor, not knowing where he himself is situated vis-à-vis the camera.
+ Здесь следует подумать о человеке, чья точка зрения была бы настолько отстраненной, что все его мысли были бы такими же, как у человека, наблюдающего за садом на мониторе и не знающего, где он сам находится по отношению к происходящему. камера.
+
+ But what is both necessary and sufficient for a transcendental proof to work is only that the subject’s thought be situated virtually: that is, that it be situated with regard to an objectual domain, the order of which may be experienced as holding independently of our subjective states of awareness of it, regardless of whether the entire situation is in itself as it is internally presented to the thinker.
+ Но для того, чтобы трансцендентальное доказательство сработало, необходимо и достаточно лишь того, чтобы мысль субъекта была расположена виртуально: то есть, чтобы она была расположена относительно объектной области, порядок которой может восприниматься как сохраняющийся независимо от наших субъективных представлений. состояния осознания ее, независимо от того, является ли вся ситуация сама по себе такой, какой она внутренне представляется мыслителю.
+
+ Within the context in which the subject finds himself embedded, at least virtually, certain things will be known a priori to obtain (known by any person whose thought is so situated).
+ В контексте, в котором находится субъект, по крайней мере виртуально, априори будет известно, что некоторые вещи могут быть получены (известны любому человеку, чья мысль находится в таком положении).
+
+ This raises the possibility of a thought being situated, while the thinker can consider that he, or the subject with whom he is identifying, might not in fact be situated as he takes himself to be.
+ Это повышает вероятность того, что мысль находится в таком положении, в то время как мыслитель может считать, что он или субъект, с которым он идентифицируется, на самом деле может находиться не в том положении, в котором он себя считает.
+
+ In that case we have the domain within which the thought is situated giving rise to transcendental proofs, while allowing that those proofs are valid only within, and of, the context of such situated thought.
+ В этом случае мы имеем область, в которой находится мысль, порождающую трансцендентальные доказательства, допуская при этом, что эти доказательства действительны только внутри и в контексте такой расположенной мысли.
+
+ Here the domain within which situated thought is embedded parallels Kant’s empirical reality; while the recognition that the a priori validity of our transcendental proofs is restricted to such domains parallels Kant’s transcendental idealism.
+ Здесь область, в которой находится мысль, параллельна эмпирической реальности Канта; в то время как признание того, что априорная достоверность наших трансцендентальных доказательств ограничена такими областями, соответствует трансцендентальному идеализму Канта.
+
+ In a nutshell, the connection with transcendental idealism lies in this: in the domain of situated thought, or of experience, the necessity of making the move in question is established, and it holds true of any such context, regardless of whether it holds true of, or indeed it makes sense to talk of there being, any domain that extends beyond it.
+ Вкратце, связь с трансцендентальным идеализмом заключается в следующем: в области ситуативного мышления или опыта устанавливается необходимость сделать рассматриваемый ход, и это верно для любого такого контекста, независимо от того, верно ли оно. или действительно имеет смысл говорить о существовании какой-либо области, выходящей за ее пределы.
+
+ Finally, a comment on the difference between talking of conditions of situated thought and talking simply of conditions of experience.
+Наконец, комментарий о разнице между разговорами об условиях ситуативного мышления и разговорами просто об условиях опыта.
+
+ As was noted above, the device of situated thought serves to focus attention on the relevant dimension of experience, to render its articulation cognitive.
+ Как было отмечено выше, аппарат ситуативного мышления служит для сосредоточения внимания на соответствующем измерении опыта, для придания познавательности его артикуляции.
+
+ But there is more to it than that: it is the way in which situated thought presents the cognitive articulation of experience that matters.
+ Но дело не только в этом: важно то, как ситуативная мысль представляет когнитивную артикуляцию опыта.
+
+ If we speak of conditions of experience without any further qualification, then we should expect the conclusions of transcendental arguments to apply not only to human forms of such experience, but to all.
+ Если мы говорим об условиях опыта без каких-либо дальнейших уточнений, то нам следует ожидать, что выводы трансцендентальных аргументов будут применимы не только к человеческим формам такого опыта, но и ко всем.
+
+ Kant sensibly does not advocate anything like this: he thinks that God’s experience, for example, would not be subject to the epistemic conditions that apply to us.
+ Кант разумно не защищает ничего подобного: он думает, что, например, опыт Бога не будет подчиняться эпистемическим условиям, применимым к нам.
+
+ His only explanation for this is that we have faculties of the mind that would not be shared by all other forms of experience.
+ Его единственное объяснение этому состоит в том, что у нас есть способности ума, которые не свойственны всем другим формам опыта.
+
+ This relieves transcendental arguments from the uncomfortable burden of having to legislate for all possible forms of experience.
+ Это освобождает трансцендентальные аргументы от неудобного бремени законодательного регулирования всех возможных форм опыта.
+
+ But it has the cost of relying on rather dubious transcendental psychology.
+ Но за это приходится платить довольно сомнительной трансцендентальной психологией.
+
+ It also draws the relevant line in the wrong place, since not only God but also other forms of experience (such as that had by non-human animals) then stand to be excluded from the jurisdiction of transcendental arguments.
+ Это также проводит соответствующую линию не в том месте, поскольку не только Бог, но и другие формы опыта (например, тот, который имеют животные, не относящиеся к человеку) тогда оказываются исключенными из юрисдикции трансцендентальных аргументов.
+
+ Unpacking transcendental arguments in terms of the device of situated thought has the advantage of drawing the line in the right place, for the right reason, and without being committed to transcendental psychology as a means of doing it.
+ Распаковка трансцендентальных аргументов с точки зрения устройства ситуативного мышления имеет то преимущество, что позволяет провести линию в нужном месте и по правильной причине, не прибегая к трансцендентальной психологии как средству достижения этой цели.
+
+ What is identified is that, for all we have seen, these are the conditions of any experience that is articulated from the perspective of an embedded subject.
+ Установлено, что, несмотря на все, что мы видели, это условия любого опыта, сформулированного с точки зрения встроенного субъекта.
+
+ That includes more than human experience, obviously, and excludes God’s experience, which is precisely not situated, or from a point of view.
+ Это, очевидно, включает в себя нечто большее, чем просто человеческий опыт, и исключает опыт Бога, который точно не находится ни с какой точки зрения.
+
+ The link between transcendental arguments and points of view (perspectives) has long been appreciated.
+ Связь между трансцендентальными аргументами и точками зрения (перспективами) уже давно оценена по достоинству.
+
+ The suggestion here is that it is not that our point of view is tainted by a particular cognitive structure that we bring with us, but that it is the notion of a situated thought, the mere notion of experience as being from a point of view, that itself imposes the relevant structure.
+ Здесь предполагается, что дело не в том, что наша точка зрения испорчена определенной когнитивной структурой, которую мы приносим с собой, а в том, что это понятие ситуационной мысли, простое представление об опыте как существующем с определенной точки зрения. это само по себе накладывает соответствующую структуру.
+
+  Part 8: Conclusion.
+  Часть 8: Заключение.
+
+  A point of historical diagnosis might be worth bringing out at this point.
+  Здесь, возможно, стоит остановиться на историческом диагнозе.
+
+ The concern with transcendental arguments has been widespread since Kant, and as much in analytical circles as in non-analytic philosophy.
+ Забота о трансцендентальных аргументах была широко распространена со времен Канта, как в аналитических кругах, так и в неаналитической философии.
+
+ But there is one relevant difference we are now in a position to identify clearly.
+ Но есть одно существенное различие, которое мы теперь можем четко определить.
+
+ I said earlier that a standard construal of transcendental arguments in terms of conceptual or propositional presupposition missed a crucial feature of such arguments.
+ Ранее я говорил, что стандартная интерпретация трансцендентальных аргументов в терминах концептуальных или пропозициональных предпосылок упускает ключевую особенность таких аргументов.
+
+ That construal has been particularly rife in analytic philosophy.
+ Такая интерпретация особенно распространена в аналитической философии.
+
+ In contrast, the refusal of the linguistic ascent, in favour of a descent into the phenomena, is more readily associated with a non-analytic approach to transcendental proofs.
+ Напротив, отказ от лингвистического восхождения в пользу нисхождения в явления скорее связан с неаналитическим подходом к трансцендентальным доказательствам.
+
+ Specifically, the form of proof identified, in asking after the preconditions of what I have been calling situated thought, approximates to what may deservedly be referred to as transcendental or pure phenomenology.
+ В частности, форма доказательства, выявленная при исследовании предпосылок того, что я называю ситуативным мышлением, приближается к тому, что можно заслуженно назвать трансцендентальной или чистой феноменологией.
+
+ If what has been said here is right, then we have an insight into how such a pure phenomenology is of epistemic – and not merely descriptive – import; and how it helps to capture both the nature of Kant’s transcendental proofs and the confinement of their validity to empirical reality, to the level of possible experience.
+ Если то, что было сказано здесь, верно, тогда мы понимаем, почему такая чистая феноменология имеет эпистемическое, а не просто описательное значение; и как это помогает уловить как природу трансцендентальных доказательств Канта, так и ограничение их достоверности эмпирической реальностью, уровнем возможного опыта.
+
+ The best way forward, as I hope should be clear from the above, is a combination of the two approaches.
+ Наилучший путь вперед, как я надеюсь, должен быть ясен из вышеизложенного, — это сочетание двух подходов.
+
+ We should set out the formally valid deductive arguments as the shell, while recognizing that the central moves, which can be regarded only as premised in the run of the argument, need to be established independently, by way of transcendental proof – working through the relevant propositional content in situated thought.
+ Мы должны представить формально действительные дедуктивные аргументы как оболочку, признавая при этом, что центральные ходы, которые можно рассматривать только как предпосылки в ходе аргументации, должны быть установлены независимо, посредством трансцендентального доказательства – через соответствующие пропозициональное содержание в ситуативной мысли.
+
+ If that is done, the status of propositions that are synthetic but a priori stands to be established (and their scope appropriately restricted).
+Если это будет сделано, то статус предложений, которые являются синтетическими, но априорными, должен быть установлен (и их объем соответствующим образом ограничен).
