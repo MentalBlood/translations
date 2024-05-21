@@ -1,0 +1,1006 @@
+Chapter 1.
+General Introduction.
+Abstract. A summary of the entire book is given. Apart from descriptions of the
+contents of each chapter, several additional methodological points are made. I give
+reasons to avoid, as tools of philosophical analysis, concepts such as “understand-
+ing,” “meaning,” and “fact.” I also describe some significant differences between
+how I understand rule following and how Kripke does. In particular (and this is a
+difference between my approach and that of most philosophers concerned with this
+topic), I focus very much on “rule following” as it occurs in the application of tasks
+that the subject engages in during his interaction with the world, as opposed to
+intrinsic arithmetic exercises, such as counting numerals or adding them.
+Central to the “rule-following paradox,” which is the topic of this book, is the notion
+of “understanding,” as used in “she understands how to add,” “he understands how
+to continue counting numbers above ten,” and “she understands those concepts.” A
+methodological warning is immediately in order, however: “Understanding,” so
+used, is a word for a bewilderingly intricate human capacity that involves subper-
+sonal, conscious/phenomenological, sociological, and normative elements. It’s a
+notion that’s too dangerously complex to be presupposed in philosophical analyses;
+it should only be a target of such analyses. It’s hardly the only word too dangerous
+for philosophers to use as a tool for analysis rather than as a target of it. Another
+over-used serpentine trap is “explanation”; yet a third is “meaning.” Even repeated
+and obvious (and palpable) failure doesn’t seem to stop philosophers from continu-
+ing to build fine-tuned analyses on such foundations of sand.
+Quine rarely comments on his general approach to doing philosophy—even his
+avowals of naturalism and extensionalism (for example) are pretty specific in con-
+tent and application. Nevertheless, I’ve found a rare methodological meditation
+that’s worth memorizing. Quine (1981, 184) writes:
+“Sentences have replaced thoughts,” according to Schulenfrei’s account of my views, “and
+dispositions to assent have replaced belief.” Does he mean that for me there is no more than
+this to thought and belief? Reading on, I suspect that he does. Then he misunderstands me.
+Quine continues:
+"My position is that the notions of thought and belief are very worthy objects of philosophi-
+cal and scientific clarification and analysis, and that they are in equal measure very ill suited for use as instruments of philosophical and scientific clarification and analysis. If some one
+accepts these notions outright for such use, I am at a loss to imagine what he can have
+deemed more in need of clarification and analysis than the things he has thus accepted."
+But let’s stick with the notion of “understanding” since that’s the notion this
+book is directly concerned with. Common to several philosophical traditions is the
+assumption that someone’s understanding of a set of concepts must be grounded in
+the grasping of the rules that govern those concepts. This captures—so it’s thought—
+the way we understand the meanings of words, as well as how we understand the
+concepts involved in simple mathematical practices—such as counting. A nice set
+of models for this picture can be found in rule-governed games, such as chess. This
+line of thought predicts that once the rules of chess are learned by an individual, she
+will understand how to play chess—any chess game under any set of
+circumstances.
+Some proponents of this position describe us as having “dispositions” to grasp
+those rules, or even as having such rules embodied in our dispositions so that we
+behave appropriately in situations where we exhibit this kind of “understanding”—
+for example, when counting the oranges in a basket.
+A huge literature has focused on “the rule-following paradox”—that aspects of
+our rule-following practices seem at odds with this natural picture of our grasp of
+rules. In particular, Kripke (1982) has spawned a large philosophical industry
+focused on the problems he presents Wittgenstein as having raised for any approach
+that grounds the understanding of simple mathematical rules in the exercise of a set
+of dispositions. (Kripke does not present the view as his own; and he—and others—
+recognize it may not be Wittgenstein’s. The coined word “Kripkenstein,” conse-
+quently, has entered the literature. I avoid this term in this book, preferring to let
+phrases like “Kripke’s Wittgenstein,” or context, do its work instead.)
+Briefly (and perhaps inaccurately), the rule-following puzzle is this: We under-
+stand ourselves as following rules, and given appropriate training, as able to do this.
+But the means by which we understand ourselves as abled in this way are shown by
+Kripke as not up to the job. The candidates for enabling the rule-following ability,
+for example, an introspective grasp of rules, various habits or dispositions to exe-
+cute rules when faced with a task, and so on, are shown by Kripke as unable to
+underwrite all the required elements of our competence for rule following. Kripke
+responds to the paradox by offering a “sceptical solution”: Such a solution, conced-
+ing failure to the “meaning sceptic,” reconfigures the understanding of our practice
+of rule following in several crucial ways. Among them is that an understanding of
+meaning in terms of “truth conditions” is rejected. Instead, what’s required are
+“assertability conditions” in terms of the conformity of an individual’s rule-­
+following practices with that of a community.
+Kripke’s version of Wittgenstein’s rule-following paradox has been extremely
+influential. One of my concerns is with how it—and Wittgenstein’s views more
+generally—have been perceived as undercutting the individualistic picture of math-
+ematical practice: the view that individuals (I’ll call them “Robinson Crusoes”),
+independently of a community, can engage in cogent mathematics, and indeed can have “private languages.” The paradox denies that phrases like “correctly counting”
+can be applied to such individuals because these normative notions can only be
+cogently applied relative to community standards (so the analysis is taken to reveal).
+One of the original elements in my alternative “sceptical solution” to the rule
+following paradox is that this shocking corollary doesn’t follow—not even if
+Kripke’s Wittgensteinian objections to dispositional approaches to rule following
+are largely right. This is because my solution to the rule-following paradox doesn’t
+favor community standards over individual ones. Furthermore, it doesn’t replace
+truth conditions with assertability conditions; and this is essential to Kripke’s solu-
+tion favoring the community over the individual. Instead, my approach focuses on
+how dispositions to execute rules enable individuals to interact more or less success-
+fully with the world. Suppose their practices exhibit dispositions that change in a
+way that over time progressively optimizes success events (e.g., predicting how
+much food will be needed over how many days). Then conformity between how
+individuals follow rules will result even without rule-following practices being
+explicitly related to a community.1
+Lewis (1983), in an article almost as influential as Kripke (1982), connects
+Kripke’s version of the rule-following paradox to Putnam’s (1981) then version of
+anti-realism by virtue of offering the same solution to both of them. Lewis urges an
+approach that, nearly enough, builds into the references of natural-kind terms (as
+well as mathematical terms such as “sum”) a presupposition of metaphysical con-
+straints on the possible extensions of those terms. Lewis contends that this presup-
+position is required to respond to Kripke’s Wittgensteinian paradox and to Putnam’s
+anti-realism. A subsequent generation of analytic metaphysicians has explicitly
+adopted Lewis’s response under the rubric of “reference magnetism.” In Chap. 4, I
+show that this family of Lewisian approaches to the rule-following problem—here-
+after described as “reference-magnetism” approaches, following the nomenclature
+of Lewis’s followers—doesn’t work and isn’t needed.
+Lewis never uses “reference magnetism.” This phrase apparently originates in
+Hodes (1984, 135), where he expresses a puzzle. Hodes’s question is: how is it that,
+"we all end up speaking languages in which, out of all possible numberers [that is, type 2
+functions F carrying type 1 concepts to objects, where for all such concepts X and Y, F(X)
+= F(Y) ≡ (QEx)(Xx, Yx)], the phrase “the number of” stands for the standard numberer? Why
+is the standard numberer a “reference magnet” which “draws” reference by that phrase, in
+a way in which its nonstandard competitors cannot?".
+“Reference magnetism,” is well-tuned (as Hodes’s phrases so often are); no wonder
+it was adopted by the next generation of philosophers to convey something
+different.
+Here’s an outline of the chapters of the book.
+In Chap. 2, I revisit Kripke’s discussion of the rule-following paradox for dispo-
+sitional approaches to numerical competence, and the alternative solution to the
+paradox that he offers on behalf of Wittgenstein. To a large extent, the ­
+considerations I raise in this chapter are Kripke’s original ones. In doing so, I don’t worry about
+questions of Wittgensteinian exegesis—of how true Kripke’s concerns are to
+Wittgenstein’s originals.2 Kripke’s formulation of the challenges to the meaning-­
+dispositionalist is significant (and extremely influential) regardless of how true it is
+to Wittgenstein’s own thinking. There are two changes, however. First, Kripke’s
+discussion uses the central example of a subject adding, and the sceptical challenge
+that everything she has learnt and previously experienced is consistent with the pos-
+sibility that she isn’t adding but instead doing something different. I substitute for
+addition the more elementary task of counting, and the corresponding possibility of
+doing something different instead of counting. This is minor. Kripke (1982, 17)
+himself raises the issue about counting in passing.
+The second change is significant: it’s the key to my solution to the rule-following
+paradox. My central rule-following paradox-case focuses on the subject who is
+counting things—objects—not someone who is solving a task that involves numer-
+also alone. Children learn to count in just this way: they learn to apply counting-­
+numbers to tasks of recognizing cardinal numbers of sets of objects, a kind of
+knowledge that takes several years to acquire.3 This is important because “social
+solutions” to the rule-following paradox—ones that normatively favor the commu-
+nity over the individual—have been seen by many philosophers (and sociologists of
+knowledge) to be the only successful responses that can be made to the paradox.
+One reason for this is a neglect of considerations about mathematical-concept appli-
+cation to the world. Similarly, application of mathematics to the world is largely
+off-stage in Kripke’s discussion (and, as a knock-on effect, it’s largely off-stage in
+the discussions of the many commentators on this literature).
+It’s not particularly off-stage in Wittgenstein’s own work (it’s important to add)
+if only because he often gives examples of people counting objects. Kripke also
+takes note of the numerical sizes of collections often being the target of counting
+tasks when he discusses—in passing—“quounting,” and when he discusses
+Wittgenstein’s text. However: if the counting of collections of objects is centrally
+incorporated into the examples that Kripke’s meaning sceptic challenges, as I show
+in later chapters, that makes salient possible (but overlooked) coherent forms of
+private-language practices. In particular, the crucial notion of private-language-­
+practice coherence-inducing dispositions (plpci dispositions) that I introduce in
+Chap. 5 has no foothold outside contexts of applying concepts to the worldly items
+they hold of. My sceptical solution to the rule-following paradox, therefore, won’t
+help disembodied Cartesian entities that avoid boredom by (eternally) counting
+numerals in their heads.
+These disagreements with Kripke’s Wittgenstein aside, I should add that I’m in
+partial agreement with one important lemma that Kripke draws from the rule-­
+following paradox, and that he (1982, 78–79), in a rare moment, officially endorses: One must reject “the natural presupposition that meaningful declarative sentences
+must purport to correspond to facts.” (He adds: “The picture of correspondence-to-­
+facts must be cleared away before we can begin with the sceptical problem.”) I’m in
+partial agreement with Kripke because I think that rule-following considerations do
+show that we must accept that some meaningful declarative sentences don’t corre-
+spond to facts. I don’t, however, think that this is established with respect to all
+meaningful declarative sentences. I’ll show why rule-following considerations
+demand only a partial rejection of correspondence metaphysics in Chap. 6. This
+discussion simultaneously motivates my particular form of truth deflationism—one
+that I’ve extensively discussed elsewhere.4
+One crucial point to make now is this. The dispositionalist hope that so much of
+Kripke’s (1982) analysis is dedicated to crushing locates the grounds, of the corre-
+spondence relation between meaningful true sentences and the facts to which they
+correspond, within the “mind” (broadly described) of the person following a rule.
+There are facts about the person and what she can do that determine the correspon-
+dence relations between her meaningful true sentences and facts in the world. I
+think rule-following considerations show this dispositional project fails; disposi-
+tions cannot do the job that most dispositionalists have required of them, and this is
+largely for the reasons that Kripke has given (on behalf of Wittgenstein).
+I reject, however, a major thesis that many draw from this lemma. Kripke has
+carefully described himself as only an expositor, but a large number of philosophers
+(and sociologists of knowledge) assert the conclusion that considerations, like the
+ones I’ll present in Chap. 2, lead inexorably to the result that standards for mathe-
+matical practice—and for rule following in general—must be relativized to, or
+embodied in, the community within which the individual learns rules. To use
+Kripke’s (1982, 109) language,
+"What is really denied is what might be called the ‘private model’ of rule following, that the
+notion of a person following a given rule is to be analyzed simply in terms of facts about the
+rule follower and the rule follower alone, without reference to his membership in a wider
+community".
+One aim of this book is to show that although Kripke is largely right about the
+nature of the rule-following paradox and the responses following from it, the private
+model of rule following emerges unscathed from the paradox he presents. The con-
+tours of logical space in this problem-area are more twisted and subtle than late
+last-century thinkers anticipated. After I sketch Kripke’s exposition of a particular argumentative strategy for his
+solution to the paradox—his interpretation of Wittgenstein as replacing truth condi-
+tions with assertability conditions—I’ll argue (in subsequent chapters) for another
+solution; one that doesn’t favor community standards over individual standards. In
+this chapter, I also briefly indicate why a dispositional approach that broadens the
+location of the needed dispositions to those possessed by the individuals in an entire
+community doesn’t succeed.
+In Chap. 3, I explore disposition-meaning languages: languages that really are
+intrinsically private. Speakers of these languages (I call them “Crusoes”), unlike us,
+really do intend each word to refer to whatever their dispositions incline them to
+apply that word to. I begin the exploration of the scope of such languages, showing
+how certain notions we commonly use: “mistake,” “justification,” and “concept,”
+for example, either survive only in a diminished form or vanish altogether. In either
+case, very little damage to private rule following results. My aim—in this chapter
+(and in Chap. 5)—is to show exactly how these notions break down or aren’t needed
+in the context of disposition-meaning languages. I also begin an exploration of the
+content of phrases like “fitting the world,” or “carving the world at its joints” for
+speakers of such languages. One unexpected corollary is that, contrary to the
+impression Kripke’s discussion gives, a community of speakers of such languages
+can successfully use these languages to engage with the world under a broad range
+of favorable empirical circumstances. Furthermore, under such circumstances,
+speakers can objectively compare different disposition-meaning languages, and
+determine which are better for interacting with the world. They will not, however,
+use notions such as one language “better fitting” the world than another, nor notions
+like “the correct” application of a word. The phrase, “favorable empirical circum-
+stances,” I should add, labels more than characterizations of external-world circum-
+stances: it also covers empirical facts about the mechanisms of the dispositions in
+such speakers—in particular, mechanisms that determine how their dispositions can
+evolve.5
+In Chap. 4, as I indicated before, I need to pause in the analysis of disposition-­
+meaning languages in order to deflect reference-magnetism solutions to the chal-
+lenges I’ve posed so far for such languages to determine references to collections of
+things in the world. I discuss three versions of the reference-magnetism approach.
+The first treats the world’s structure as, somehow, metaphysically providing
+resources that supplement what individuals in a community bring to determine ref-
+erence, so that the result tames the rule-following paradox. Our words (concepts)
+have determinate reference beyond the psychological and neurophysiological
+resources of any individual, and beyond what any community of such individuals would be able to manage on its own. The second treats interpreters of natural lan-
+guages as required by semantic theory (along with background scientific practice)
+to impose determinate reference on the terms of those languages, along with natural
+kinds as the relata of the kind terms of those languages. The third treats the a priori
+constitutive imposition of natural kinds to be required by the Moorean facts of
+determinate reference and by semantic theories (that presuppose determinate refer-
+ence) being “the only game in town.” I show that none of these defenses of reference
+magnetism work.
+In Chap. 5, I present my final Crusoe (Crusoe 5), who is psychologically close to
+us in the sense that he doesn’t naturally treat his own language as a disposition-­
+meaning language because (like us) his dispositions to use terms aren’t visible to
+him. I show how, nevertheless, his awareness of how his applications of terms can
+improve his overall well-being over time, enables him to impose coherent standards
+on his private-language practice.
+I examine Crusoe 5’s language more closely in Chap. 6 to show how he can apply
+a standard truth-functional semantics to it, and how he can employ the truth idiom
+naturally, similar to the ways we do. This will show that Kripke’s substitution of
+assertability conditions for truth conditions in order to provide a “sceptical solu-
+tion” to the rule-following paradox isn’t the only option: another sceptical solution
+is possible. The required substitution of assertability conditions for truth conditions,
+however, is essential to the conclusion that private languages are impossible.
+In Chap. 7, I attend to some remaining loose ends. I explore the methodological
+role of a God’s eye view in my approach to the evaluation of private rule followers.
+To this end, a distinction is drawn between two possible views of Crusoe’s lan-
+guages (and our languages), one that treats such languages as ever-changing with
+regard to what their terms refer to, and a second that takes reference as fixed and
+unchanging. I explore and contrast these two viewpoints to show what kind of sense,
+if any, we can make of a God’s eye view.6
+Moving on, I indicate the consequences for correspondence metaphysics that do
+follow from my sceptical solution to the rule-following paradox. Quickly put, the
+possibility of an empirically-sustained correspondence metaphysics is not ruled out.
+What is ruled out is a presuppositional role for such metaphysics in philosophical
+explanations of empirical success, or in semantics.
+Finally, I conceptually connect the rule-following paradox to Hume’s problem of
+induction.
+Chapter 2.
+Kripke’s Version of Wittgenstein’s Paradox
+and His Solution.
+Abstract This chapter reviews Kripke’s original description of Wittgenstein’s par-
+adox and its solution. Quite a bit of critical commentary has engaged with Kripke’s
+interpretation; but I’m not concerned with whether Kripke’s interpretation of
+Wittgenstein is right; I’m only concerned with Kripke’s puzzle, as he presents it.
+Two distinctions discussed in the chapter are Kripke’s description of straight and
+sceptical solutions, and that between grounding facts and correspondence facts.
+Three key discussions occur in the chapter. First, there is a discussion of Kripke’s
+three conditions on a straight solution to the paradox, the infinitude requirement, the
+justification requirement, and the mistake requirement. Second, there is a discussion
+of why dispositional approaches to the paradox don’t work. Third, there is a discus-
+sion of why a straight sociological solution doesn’t work. I engage as well with
+some of the critical commentary on rule following that has arisen subsequently to
+Kripke’s book.
+2.1 Setting Up the Problem: Three Constraints on Any
+Solution.
+We may describe a subject who has successfully counted various collections of dif-
+ferent kinds of objects as having learned to count correctly. Then we take it that she
+will go on “in the same way” to count in new cases: larger numbers of objects,
+perhaps, than she has counted in the past, as well as the numbers of collections of
+other kinds of objects (pears instead of oranges, widgets instead of fruit, collections
+containing assorted heterogeneous items …).1 Let’s say that she has been taught a
+numeration system that provides a rule for generating new numerals from earlier
+ones. Systems of numerals are strikingly different in this respect from the sets of verbal names for numbers that occur in most ordinary languages.2 The latter usually
+belong to a finitary notation for numbers that requires the explicit coining of new
+vocabulary for ever-larger numbers, as in English and other natural languages. The
+notational generation of ever more numerals, however, is built into numeral sys-
+tems—subject (of course) to the physical constraints of the medium of the numer-
+also. Once a subject has acquired this ability to count, and has mastered a particular
+numeration system, we describe her as understanding how to count.3
+Now the subject attempts to count the items in a collection that’s larger than any
+she has ever counted before: it has 57 items. She gets an answer, the correct answer
+we’d say. Kripke’s sceptic challenges the claim that our subject’s current answer is
+in accord with her previous understanding of her task. In the past, Kripke’s meaning
+sceptic claims, she never meant to count, she always meant to quount. To counter this sceptical claim, that the subject intended to quount, not count,
+and therefore to show that her current answer really does conform with her previous
+understanding of what she was doing when she undertook the task in the past, what’s
+needed are the facts about the subject—or the pattern of facts—that underwrite her
+previous and current understanding of counting. I’ll introduce the phrase “ground-
+ing facts” to describe the facts—for example, ones about the dispositions of the
+subject—that explain what the understanding of that subject comes to.
+Some Terminology I distinguish “correspondence facts” from “grounding facts.” The
+former are the purported (external-world) facts that true meaningful sentences corre-
+spond to. The latter are the psychological/dispositional facts in the person (or else-
+where in the environment) that underwrite a subject’s capacity to understand true
+meaningful sentences, and consequently that determine that such sentences are indeed
+understood to correspond to the (external-world) facts that they purportedly corre-
+spond to. As we’ll see shortly, the meaning sceptic’s challenge directly places pres-
+sure on the purported grounding facts; this in turn undermines correspondence facts.
+“Fact” is like those treacherous words I began the general introduction worrying
+about. I intend nothing philosophically heavyweight by my use of it. In particular,
+there are no entities—facts—that sentences correspond to (I presume there is noth-
+ing—metaphysically speaking—that sentences correspond to). Some sentences
+have terms that refer, and how it is with what those terms refer to are “facts.” (See,
+however, Chap. 6 for refinements of this idea to handle the common cases where
+sentences contain terms that don’t refer.)5 I also don’t mean to allude to a meta-
+physically heavyweight notion of “grounding,” or to any of the complex literature
+that’s recently bloomed on this topic.6 “Fact” and “grounding”—as in “grounding
+fact”—are ordinary pre-theoretical terms.
+Before resuming the dialectic, I should describe a second bit of terminology.
+Kripke distinguishes between “sceptical” and “straight solutions” to the rule-­
+following paradox. Straight solutions seek out grounding facts (of one sort or
+another) for the subject’s apparent understanding of counting. Sceptical solutions
+accept that grounding facts don’t exist, and explain the subject’s grasp of counting
+in some other way.
+Back to the Dialectic As noted, it’s the purported grounding facts (or the pattern of
+grounding facts) that account for it being true that in the past the subject understood
+how to count, rather than it being true that she understood (and intended) to “quount.”
+This relevant pattern of grounding facts is something about the subject, either some-
+thing about her mental states, or something about the subpersonal events or structures that underlie those mental states that enabled her to grasp counting. The purported grounding facts about the subject’s understanding are supposed to be
+explained in these terms: how the subject’s psychological states—what the subject
+thought when facing the task—enabled her to understand herself to be counting, or
+how mechanisms or subpersonal representations (neurophysiological or otherwise)
+activate so as to have enabled the subject to be able to count.7
+I read Kripke as placing three constraints on the required account of the pattern
+of grounding facts, dispositional or otherwise, that are supposed to constitute a sub-
+ject’s understanding of counting (and that are supposed to provide a response to the
+meaning sceptic).8 The infinitude requirement. Any given subject has counted only
+finitely many collections of objects. Her presumed ability to count the many collec-
+tions of objects that she has never counted before raises fresh considerations in two
+ways. First, as noted earlier, she may have only counted apples and pears, but noth-
+ing else. Second, she may have counted collections of no more than 57 objects. We
+take her grasp of counting to include an ability to count collections of objects that
+differ—both in number and in kind—from collections she has counted in the past.
+We think that something is wrong if a subject hasn’t realized that counting is neutral
+about the objects she can count—if she feels unable to count red objects, or ones
+kept in certain boxes, and so on. We also feel something is wrong if how she counts
+larger collections of objects deviates from how she counts smaller collections of
+objects. Perhaps she systematically (or asystematically) skips numerals, starts over
+when she reaches a certain numeral, or fixates at a particular numeral as the answer,
+and tells us that the rest of the objects aren’t relevant.9 Part of what we assume
+“understanding” to mean is that the subject can handle counting tasks that are dif-
+ferent from ones she has handled in the past.
+Kripke’s second constraint on any account of the grounding facts about the sub-
+ject that explains how she understands counting is the justification requirement. When the subject counts a collection of objects, and recognizes the number of
+objects present, her answer is “justified.” She ought to have proceeded as she did
+given what she meant. It’s no accident that her way of counting gives the expected
+answer.
+Equally crucially, adults and children take themselves to be justified in the
+answers they give because they take themselves to have grasped how to count: they
+take themselves to understand what “counting” means. If someone is asked why she
+counts a certain way, her response will be: “Because that’s how you count.” Or:
+“Because that’s how it’s done.” Or: “Because that’s what counting is.” If a child (or
+adult) counts in an unusual way, she’ll justify herself by showing (or indicating that
+she believes) that the unusual method always results in the same answers as strict
+enumerative counting does.10
+Notice that the justification offered—that’s how it’s done, etc.—is, except in
+unusual cases, phenomenologically confident. The subject, once she has learned the
+procedure, doesn’t hesitate in how she goes about it. And, she doesn’t hesitate in
+giving an explanation for what she does: “This is what counting is.” Also, we accept
+this justification from a third-person point of view when we say: She does under-
+stand what “counting” means. (Or: She does understand how to count.)
+There is a subtlety here. As I described “justification,” we normally have two
+expectations about a child (or anyone) with respect to counting—and with respect
+to other tasks as well. The first is that, given the child means to count, what she does
+conforms with her intention. Sometimes we fail at a task precisely because what we
+do doesn’t conform to what we meant to do; we don’t do what we “ought” to have
+done. (“Look what you’ve done! Did you really mean to do that?”) The second
+expectation is that what the child (or anyone) means to do is count. A different kind
+of mistake can occur—the person can mistake the task at hand, think she is “sup-
+posed” to do something else. Here the required “ought phrase” is different too; it’s
+not that “she ought to have proceeded in the way she did given what she meant,” but
+rather that “she meant to do task T but she ought to have meant to do task U.” The
+phenomenological confidence that’s felt when undertaking an assigned task involves
+both expectations and can correspondingly be undermined in two ways.
+There is a bit of literature about the supposed “normativity” involved in rule fol-
+lowing—specifically, how thick the “ought” is.11 I interpret this “ought” as thin. “Justification,” here, is meant only in the sense that given what the child meant,
+what the child does conforms with this meaning. The justification requirement, that
+is, presupposes that “built into” what the child means (or meant) is enough to sup-
+port that her execution conforms to what’s meant. This is what’s behind the phe-
+nomenological confidence of a child—that she can “explain” why what she’s doing
+is what she means to do—what she intends to do—and that she can explain that
+what she means to do is what’s being asked of her. Both the richness of what’s
+meant (that it determines what behavior conforms to it) and our grasp of that mean-
+ing and what it implies are at work here.
+As I’ve indicated in the preceding paragraphs, the justification requirement is
+closely linked to a third requirement Kripke gives, the mistake requirement.
+Confidence in how we count, and in the results we get when we count, is open to a
+particular “rider” that everyone recognizes. This is that a “mistake” hasn’t been
+made. Any subject can make mistakes when counting a collection of objects, and
+get wrong answers—this is routine. We clearly and naturally distinguish cases
+where a subject has made a mistake from cases where we describe the subject as not
+having (fully) grasped the concept of counting (and, notably, we also distinguish
+cases where a subject has made a mistake—even a systematic mistake—from cases
+where: (i) we would describe the subject as not having yet acquired the concept of
+counting, and from cases where: (ii) we would instead say something seems to be
+“wrong” with the subject.
+Overlooking an object, or counting one twice (by accident—because of distrac-
+tion, say) are cases we describe as ones where a subject “has made a mistake.” But
+something seems more seriously wrong if the subject always deliberately counts all
+the red objects twice over, to get double the sizes of those collections. If the subject
+isn’t just “playing games,” but thinks she’s counting, we’re moved to deny she
+understands counting. Under certain circumstances, we may say that she’s incapa-
+ble of learning how to count. An important aspect of our identifying the subject as
+having made a mistake (although this isn’t a necessary condition) is that the subject
+can be brought to recognize that she has made a mistake. (“You skipped that one.”
+“Oops,” she says, correcting herself.)
+However we describe the subject’s ability to count (as embodied in her) and
+however we characterize the disposition she has acquired by learning to count, room
+must be made for a concomitant ability to get wrong answers, and to recognize that
+they are wrong answers. We don’t normally speak of an “ability” to get wrong
+answers; but the requirement should be clear nevertheless. We often get wrong
+answers even though we grasp counting perfectly well, and any description of the pattern of grounding facts that we use to explain anyone’s ability to count—the abil-
+ity to execute any task, for that matter—has to allow room for the possibility of
+errors, and for the possibility of recognizing those errors.
+I should stress one last related point about how compatible making mistakes—
+and even systematic tendencies to make mistakes—is with our attribution of the
+understanding of concepts, such as counting, addition, subtraction, multiplication,
+and division. Some people are amazing calculators, quickly and accurately solving
+numerical problems involving large numbers. It’s not felt that these people grasp
+these concepts in a way that the rest of us don’t—more “deeply,” say. It’s just that
+such people can calculate faster, and know more tricks and shortcuts (in many cases,
+they have simply memorized more number-facts than the rest of us). Even someone
+(like myself), who is just about guaranteed to make an elementary error of some
+embarrassing sort when attempting a mental calculation, or even one on paper, isn’t
+regarded as having less of a grasp on the concepts of counting, addition, multiplica-
+tion, and division than those calculational wunderkinds. What does seem to be
+required, however, to consider someone as possessing these concepts in a way that’s
+not “defective,” is the ability to recognize a mistake that’s made. When an individu-
+al’s calculations are laid out in detail, and the mistakes pointed out, she should see
+that she’s made mistakes, and understand why they’re mistakes. If not, she’s taken
+as not having fully grasped the concepts in question—or at all.
+2.2 Why Introspective Resources Are Insufficient
+for a Response to Meaning Scepticism.
+I’ll start with an assumption I’ve attributed to Kripke’s Wittgenstein. This is that the
+possible resources of a subject for understanding counting can come—in princi-
+ple—from only two places. First, from the subject’s introspective grasping: her
+awareness of something that amounts to understanding counting. Second, from pat-
+terns of behavior—consciously or unconsciously engaged in—that she’s disposed
+to. It’s only after the introspective option is recognized to fail that one turns to a
+dispositional approach.
+Recall the meaning sceptic’s challenge. What can be pointed to as indicating that
+the subject always meant to count and not quount? It’s quite natural to first respond
+with introspective facts. The subject, for example, is straightforwardly character-
+ized as having recognized the pattern demanded of counting from having seen a finite number of cases, and now seeing how to go on. But (Kripke (1982, 18)), no
+finite number of cases determines a unique pattern—a unique way to go on. So too,
+any attempt to describe the subject as aware of a rule or of an algorithm that’s com-
+patible with the previous cases upon which she has exercised her counting ability
+and that determines the answers to future counting tasks she may undertake, fails
+because any such rule is open to multiple interpretations that can’t be made deter-
+minate. Any such rule can be reinterpreted compatibly with what the subject “has in
+mind,” and with all her previous counting experiences.13
+We can now see how Kripke’s infinitude requirement rules out a natural descrip-
+tion of the needed pattern of grounding facts in terms of what the subject intro-
+spects. As many philosophers have noted, what causes the problem isn’t that the
+subject has to have acquired an ability to provide right answers for infinitely many
+new cases; it’s that the subject has to have acquired an ability to provide the right
+answers for new cases—ones on which she hasn’t exercised her counting capacity
+in the past. Even if a subject faces what strikes the viewer as exactly the same count-
+ing task a second time, it’s possible for her to do something different and yet describe
+it as the “same” thing she did before. (The second task, after all, is occurring on a
+Tuesday instead of on a Wednesday, or during a full moon instead of during a new
+moon, or it’s just occurring later in time.)14
+The problem is that possible occurrent mental states encompassing the under-
+standing of a rule via the couching of those rules in linguistic forms (even ones
+involving quantifiers), or via couching rules in some other sort of mental imagery
+(visual, kinesthetic, etc.), as memories of previously executed tasks, etc., must nev-
+ertheless be applied to a new current problem. But how such rules are applied indi-
+cates how they are being interpreted—and this isn’t something determinately fixed
+ahead of time by what’s presently introspectable. Many think this is the lesson of
+Wittgenstein’s (1958) § 139, and nearby sections. Putnam (1981, 20), italics his, puts
+the point nicely: “What the phenomenologists fail to see is that what they are describ-
+ing is the inner expression of thought, but that the understanding of that expression—
+one’s understanding of one’s own thoughts—is not an occurrence but an ability.”15
+Something needs stressing here because of certain responses that have been
+made to Kripke’s discussion. As widely noted (e.g., Wright (1989, 109)), to evaluate whether introspective resources are sufficient to determine that what the subject
+means at a moment corresponds to what she meant before, Kripke idealizes her
+conscious access to her past mental states so that she knows everything about her
+former mental life and behavior. Included among her introspective resources, there-
+fore, are her recollections of what she meant. It’s possible to think therefore that, of
+course, she meant to “count” and not to quount. Perhaps she thought explicitly of
+the word “count,” or perhaps, wordlessly, the concept “count” was involved in her
+thinking; perhaps there were images, or a grasp of the primitive appropriateness of
+what she was doing.16 Why aren’t memories like this sufficient to respond to the
+meaning sceptic? Why can’t the subject just respond, therefore, with: “this is what
+I mean now because this is what I meant before”?
+Kripke (1982, 51) does glancingly reject a version of this option, the meaning-­
+addition-­
+by-“plus”-state being primitive or sui generis, complaining that it leaves
+the nature of the sui generis state “completely mysterious.” Because of this response
+(and related reasons), some philosophers have charged Kripke with a bias against
+anti-reductionist responses to the meaning sceptic.17 Ginsborg (2011, 229) writes
+that critics, in support of anti-reductionism about meaning, have objected to Kripke
+supposing “that the fact of someone’s meaning something, or the fact of her follow-
+ing a rule, should be specifiable in purely naturalistic terms.”18
+This underdescribes the scope and methods of Kripke’s meaning sceptic. To sug-
+gest that a subject simply grasps her meanings introspectively, and this suffices to
+refute the meaning sceptic, really does make these supposed introspective resources
+completely mysterious. How, after all, do the contents of a subject’s mind (public-­
+language words, language-of-thought words, mental states, images, whatever) man-
+age to be about or represent a specific thing and not some other thing? One answer
+some philosophers like is that some mental states (or words, or whatever) just man-
+age that, and that’s the end of it. In particular there are intrinsic meaning states
+we’re sometimes in; and if we’re in one of those, and it’s a counting state (as opposed
+to a quounting state), then not only are we counting, but we know it.
+Alas for this line of thought, what introspection clearly doesn’t have access to is
+a mechanism of disambiguation. The intuitive force of Kripke’s description of
+meaning scepticism itself shows that all the memories of a subject’s execution of
+certain tasks—memories that include the use of words or concepts or images,
+impressions of what was meant, as well as impressions that what she was doing was
+correct or appropriate—seem compatible with either counting or quounting. The problem for a subject, that is, is that her introspective grasping of counting recog-
+nizably doesn’t have “sufficient content to exclude all the unwanted interpretations
+of [her] former understanding” (Wright (1984, 765)).
+So the charge that Kripke’s version of meaning scepticism involves a bias against
+anti-reductionism misfires. It’s rather that the option of a primitive (i.e., non-­
+reducible) meaning-state as a response to the meaning sceptic arises twice, only to
+fail both times. It fails, first (and now), when investigating the introspective sources
+available to a subject, and it fails a second time when dispositional approaches are
+considered. I’ll discuss this second failure in Sect. 2.3.
+Two last observations before turning to dispositions. First, some philosophers
+reach for our standard ways of inducing generality from a finite number of cases,
+and apply them to a subject’s access to her own mental contents. On the basis of a
+finite number of black-raven sightings, we conclude all ravens are black. Why can’t
+a similar grasp of generality arise for a subject when contemplating the memory of
+her previous executions of counting tasks?19 Kripke brings against this suggestion
+an important datum about our experience of meaning to count—and for that matter,
+meaning anything. It’s not a hypothesis. This point will arise again as an objection
+to dispositional approaches; but it also applies here. We simply know what we mean;
+we don’t hypothesize what we mean on the basis of an inductive, or any, inference.
+The second observation is about a related objection to the meaning sceptic that
+Wright (1984, 776–777) floats:
+"[Features of our intuitive notion of intention are] available to confront Kripke’s skeptic, and
+… the skeptical argument is powerless against [them]. The ordinary notion of intention has
+it that it is a characteristic of mind—alongside thought, mood, desire, and sensation—that
+a subject has, in general, authoritative and noninferential access to the content of his own
+intentions, and that this content may be open-ended and general, may relate to all situations
+of a certain kind".
+It can’t be doubted this is a correct characterization of what should be called “the
+phenomenology of meaning.”20 But the meaning sceptic does successfully chal-
+lenge the validity of this experience by asking what in this introspective experience
+provides the needed scope and generality of what’s meant—what in this experience
+determines that what’s meant is counting and not quounting?21 Why is it a response
+to the meaning sceptic that we feel—noninferentially—generality and scope in what
+we mean? Why isn’t that we feel the force of meaning scepticism itself proof that
+we can be brought to recognize that our experience of what we mean is, at best, an introspective promissory note the success of which turns on the details of the func-
+tion intended (and applied)?
+2.3 How Kripke’s Three Constraints Block Dispositional
+Approaches.
+It’s at this point that one or another dispositional approach is reached for. (Part of
+the motivation for doing so—notice—is to find resources in the subject (regardless
+of whether the subject is aware of them or not) that indicate how the subject is
+forced to the intended interpretation of counting.) I start with a simple characteriza-
+tion of such an account:
+(DIS 1)
+To grasp ‘counting’ is to be disposed, when asked for a number of a collec-
+tion of objects, to give the number of that collection.
+This doesn’t work. DIS 1 is compatible with the ability to give the right answers
+without counting. For example, we (adult humans, infants, and many animals) don’t
+count groups of one, two or three items: we recognize them.22 It’s certainly imagin-
+able that someone might simply recognize indeterminately large groups of items as
+having certain cardinalities (perhaps by the ways that a particular number of objects
+of various shapes and sizes must fill out space). This person could even have such a
+skill without realizing—or even being able to realize—that cardinalities of collec-
+tions can be linearly ordered by magnitude. We must therefore modify the disposi-
+tional account to fix on a particular way that a subject counts. Here’s a candidate:
+(DIS 2) When someone grasps “counting,” and is asked for the cardinality of a col-
+lection of objects, he’s disposed to point at each item in the collection one-
+by-one and utter a numeral, starting with “1” when pointing at the first
+item, followed by the numeral that is the successor of the previous numeral
+he has uttered each time he points to a new item in the collection, and to
+give the last numeral he utters when he points at the last item in the collec-
+tion as the cardinal number of that collection.
+Let’s see how DIS 2 fares against Kripke’s requirements. First, the infinitude
+requirement. The problem is that people are very likely not to be disposed as DIS 2
+requires to determine the number of a collection of objects under all or even most
+circumstances. If someone is tired, or if the collection is too big, the person will fail
+to do as DIS 2 requires, or refuse to try. This looks like an actual fact about all
+people: the dispositions DIS 2 purports to describe are real ones. As such, their dispositions are sensitive not only to the cardinal sizes of the collections that the sub-
+ject is faced with, but also to the properties of the items in those collections as well
+as the background states of the subject. For example, if some of the items reflect
+sunlight too brightly, or are too close together, or are quite tiny, or crawl around on
+each other, the subject may actually be disposed to drop the task altogether (and run
+for her life) rather than engage in soberly correct counting. The upshot is that,
+according to DIS 2, no one grasps counting (because no one is disposed, perhaps in
+the majority of counting tasks, to do as DIS 2 describes).
+As Kripke (1982, 30–32) notes, one can instead characterize the disposition in
+terms of what someone would do if their brains were larger, or their eyes not so
+sensitive to reflected light, or they were less fearful ... One may easily find, however,
+that such a counterfactually-modified DIS 2 nevertheless gives wrong answers. It
+may be that whatever changes in persons are needed so that they (counterfactually)
+succeed in counting collections of objects that they’re currently disinclined to
+undertake or manage correctly will instead cause them to deviate from executing the
+task correctly. There is no way we can guarantee that the changes in persons, to
+ameliorate the cause of their tendency to avoid or incorrectly execute counting tasks
+(in particular cases), don’t affect them in other ways that continue to prevent execu-
+tion of those tasks.24
+Now let’s bring in Kripke’s third constraint. It might be thought that what’s
+(really) wrong with DIS 2 is that it doesn’t accommodate, as Kripke’s third con-
+straint requires, the empirical fact that we make mistakes. We don’t, that is, ordinar-
+ily demand of those we take to understand counting (or ourselves, for that matter),
+that they on any occasion be able to count successfully. We allow exceptions for
+various reasons including, but not restricted to: the subject becoming tired during
+the task because of the large size of the collection, the items in the collection having
+properties that distract the subject from the task, or the subject being ill or drunk. We
+even allow inexplicable failures by the subject to complete the task correctly. (“Oh
+wow—what was I thinking?”) Despite deviations in these and other cases from the
+behavior required by DIS 2, and even in a subject’s dispositions to behavior, we’re
+still willing to describe him as understanding how to count. Why not, then, simply
+exclude such cases in “exception-clauses,” so that a subject is regarded as grasping
+counting despite the deviant behavior?
+The suggestion begs the question against alternatives. Consider succession*,
+which differs from succession in a number of cases. We can, in exactly the same
+way, describe the subject as understanding how to count* by taking the number-­
+counting tasks where the subject tends to deviate from counting*, and placing them
+in exception clauses. What, then, tells us that people grasp or understand counting
+instead of it being counting* that they grasp or understand?
+This suggested fix could have been raised earlier to address the failure of DIS 2 to
+meet Kripke’s infinitude requirement: exception clauses could have been introduced to also handle the infinitely many cases in which subjects are disposed not to engage
+in the assigned task.25 But it similarly begs the question against alternative approaches,
+DIS 2* say, where “quccessor” is substituted for “successor” in the formulation of
+DIS 2, and the two notions differ on the answers that subjects don’t give.
+The problem with DIS 2 is that it attempts to identify the dispositions of a subject
+(when faced with a counting task) with the correct procedures for counting. But as
+we’ve just seen, it’s no better to characterize the dispositions in question as those
+that actual subjects have, but supplement that characterization with exception
+clauses where those clauses deviate from the correct answers. Defending—in this
+way—the suggestion that the subject understands counting, fails. Proponents of the
+claim that the subject understands some nonstandard form of counting can use the
+same tool.
+Let’s turn, lastly, to Kripke’s justification requirement. The problem, simply, is
+that the dispositional view offers resources that aren’t the ones that subjects use (or
+can use) to justify that in the past they understood or meant themselves to be count-
+ing. Kripke (1982, 23) writes:
+"Am I supposed to justify my present belief that I meant [counting], not [quounting] … in
+terms of a hypothesis about my past dispositions?"
+I read his point as this: the mere description of one’s dispositions to explain that
+one meant to count fits poorly with the phenomenological impression we have of
+how people understand their own grasp of concepts such as counting. Listen to how
+odd the following speech would be:
+"I know how to count because I’m always disposed to answer the question “what is the num-
+ber of items in that collection?” by pointing at each item in the collection one-by-one and
+uttering a numeral, starting with “1” when I point at the first item, and uttering the numeral
+that is the successor of the previous numeral I uttered each time I point to a new item, and
+to give the last numeral uttered when I point at the last item in the collection as the number
+of that collection".
+If someone said this, she would raise the suspicion that she doesn’t understand count-
+ing, but has instead memorized a procedure that she doesn’t grasp at all. Or perhaps
+that she’s describing an urge she feels rather than a course of action she takes under
+the guidance of a concept that she understands.26 And we would suspect this because
+her little speech doesn’t indicate anything about why she thinks a description of her
+dispositions is even relevant to whether she understands how to count.
+I mentioned earlier that we often prove to someone that we know how to do
+something by exhibiting the appropriate behavior—for example, by counting a col-
+lection: “You think I don’t know how to count? Well, watch this!” But this person isn’t offering her disposition to do such-and-such as a criterion of what counting is.
+Rather, her providing such illustrations to another person indicates that she pre-
+sumes to already know that the other person knows what counting is, and she’s
+proving to such a knowledgeable person that she knows this, and also knows what
+counting is. Both are achieved by the illustration of the pertinent skills she has (and
+by her indication that she has them) to the other (knowledgeable) person.
+Notice that the stress I interpret Kripke as placing on how the justification
+requirement undercuts dispositional approaches isn’t that justification is “norma-
+tive” and dispositions aren’t. It’s, rather, that the way in which subjects understand
+themselves as justified isn’t satisfied by dispositional approaches. Dispositional
+approaches violate facts about how subjects experience themselves as justified.
+2.4 An Attempted Defense of Dispositional Approaches
+to Meaning Scepticism.
+Many of Kripke’s commentators defend the dispositional approach by exploiting an
+apparent analogy between the use of counterfactuals to describe the behavior of
+glass, salt, or gases, in nonactual circumstances, and the corresponding use of coun-
+terfactuals to describe what a subject would do under certain idealized circum-
+stances—e.g., having a larger brain, being immortal, well-rested, etc.27 They suggest
+that such counterfactuals—about glass, salt, and so on—involve both the exception
+clauses (ceteris paribus clauses) and the idealizations that fail, according to Kripke,
+as a response to meaning scepticism. Furthermore, glass, salt and gases face analo-
+gous versions of Kripke’s infinitude requirement, and those versions are handled
+dispositionally. In infinitely many different circumstances, the structural facts
+underlying the dispositions of glass and salt determine open-endedly many excep-
+tion clauses—salt won’t dissolve in cool salt-saturated water, salt won’t dissolve in
+water if God intervenes to adjust the motion of each molecule in the particular way
+required by that specifically-shaped molecule in order to prevent ….
+There is an important disanalogy, however, between glass, salt, and the like, and
+a counting subject.28 This is that the actual structural facts that underwrite the ideal-
+ized descriptions of glass, salt, and gases, and the like, are taken to determine the
+ways in which these idealized laws are false, not true. It isn’t, after all, that salt does
+dissolve in water under all circumstances, or that gases behave just like collections
+of little rigid round spheres. More importantly, what salt is disposed to do (under various circumstances) is exactly what salt does do—based on its chemical/struc-
+tural properties. Salt is not “water-soluble”—understood literally, this is false. Salt,
+rather, dissolves in water in a broad range of such-and-such circumstances (but it
+doesn’t dissolve in water in so-and-so other circumstances). The circumstances in
+which salt doesn’t dissolve in water, however, are special enough that the label
+“water-soluble” is nevertheless useful. Similarly, it’s that gases—under a wide
+range of circumstances—approximately behave the way media composed of little
+rigid round spheres would behave (if there were any).
+Counting is different. In studying the neurophysiological basis of numerical
+counting abilities, it’s allowed that we may discover that subjects are disposed to do
+something other than count although it’s not allowed that we’ll discover that sub-
+jects actually don’t count (don’t grasp counting) but instead do something else. It’s
+empirically allowed that we might discover that a quounting function correctly
+characterizes human dispositions; this would not be taken, however, to be a discov-
+ery that subjects quount, and don’t count. It would not be taken as showing that
+subjects don’t grasp counting—don’t know what counting is—but instead under-
+stand and undertake quounting; it would, instead, be regarded as a discovery that
+subjects—all subjects—are disposed to make certain systematic errors when they
+count.
+I’m not making a prediction based on a thought experiment; I’m describing cur-
+rent research in the study of mathematical abilities, and what discoveries about
+human (and animal) dispositions are understood in that research to reveal. The first
+point to make is that, in fact, our discoveries about mathematical dispositions in
+subjects show that they deviate from what we take correctly executing those math-
+ematical tasks to demand.
+I’ll briefly expand on this. Philosophers have suggested that the dispositions
+needed to respond to Kripke’s sceptic can be “stratified” to separate primary dispo-
+sitions to correctly count from secondary dispositions that “interfere” with the pri-
+mary ones.29 Although this distinction corresponds somewhat to our experience of
+mathematical tasks (we make mistakes that—sometimes—we recognize as due to
+interfering factors), this isn’t a property of the dispositions involved in our numeri-
+cal competences. Instead, what’s been found is that our capacities to engage in
+numerical tasks are constituted by several subpersonal cognitive systems that are
+intrinsically limited in the tasks they can successfully perform.30 One interesting
+fact is that our intuitive number line obeys Weber’s law: the numbers are spaced unevenly, bunching up as their magnitudes increase. We also have a fuzzy analogue
+sense of the numbers of groups of objects.
+Were our dispositions constitutive of our understanding of numbers, arguably,
+we would have more than one system of numbers that we understand, when we
+undertake counting tasks; one is fuzzy, but open-ended, another is strictly finite, a
+third is one in which distances between magnitudes obey Weber’s law. It’s certainly
+a requirement of any proponent of a dispositional approach to our grasp of counting
+to explain how this bewilderingly complex welter of neurophysiological capacities
+underwrites a simple stratified grasp of standard arithmetical functions coupled with
+ceteris paribus clauses to disallow as relevant to our number concept behavioral
+deviations from those arithmetical functions.
+This leads to a second devastating point about empirically-discoverable disposi-
+tions. Even if the dispositional complexities that I just described weren’t being dis-
+covered by current research, the fact that we recognize it’s an empirical possibility
+that subpersonal arithmetical capacities deviate from what we understand as the
+correct execution of arithmetical tasks shows that we don’t take the understanding
+of counting (and our understanding of other mathematical tasks) to be constituted
+by our dispositions to execute those tasks. It’s in this sense that a distinction between
+what we are inclined to do, and what we ought to do—what’s correct to do—should
+be drawn.
+This does raise an issue. Given that dispositions—the items studied by the appro-
+priate scientific researchers—exhaust a subject’s resources for understanding count-
+ing, and other mathematical concepts, what then determines that subjects mean to
+count? This may be described as the question: what fixes the meaning—the con-
+tent—of a subject’s concept of counting? What could fix it, after all, if not a sub-
+ject’s dispositions?31
+There are two observations to make. The first is that the issue of content fixation
+is coming up (here) in a dialectical search for something in the subject that deter-
+mines that the subject grasped counting in the past, and not, instead, quounting; and
+consequently, for something that determines that the subject currently grasps
+­
+counting and not quounting. We could have run a challenge to what a subject means
+directly off of the failure of dispositional approaches (leaving aside the consider-
+ations of Sect. 2.2)—but that would require additional assumptions I’m not interpret-
+ing Kripke as presupposing. Kripke’s meaning sceptic accompanies arguments for
+the failure of dispositional approaches with arguments against introspective resources.
+Second, this is a way that either arithmetical laws or our grasping of such laws
+could be described as “normative.” After all, what the failure of dispositional
+approaches amounts to is that the fact that “one is or was disposed to respond in a certain way on a given occasion cannot make it the case that one ought so to respond”
+(Ginsborg (2011, 228)). It’s better—less misleading I think—to say directly what
+(and all) this means: only the negative point that a description of dispositions in a
+subject doesn’t characterize that subject’s grasp of counting. The words “correct”
+and “ought” are solely driving a wedge between a description of the possible behav-
+ior of a subject, and the actual function (e.g., the successor function) taken as
+grasped by that subject. A certain “reduction” fails; that’s all. Similarly, to say, for
+example, that “correctness is a normative matter” (Boghossian (2003, 36)) here
+means nothing more than the actual successor function isn’t what the subject is
+disposed to execute.
+It’s tempting, I think, to suggest that Chomsky’s old competence/performance
+distinction stands or falls with the primary/secondary distinction in dispositions that
+I just undercut. Not so. One reason is that both sides of the competence/performance
+distinction are empirically sensitive: “performance” isn’t a mere trash bin for what-
+ever ungrammatical behavior the subject exhibits. The syntax of the language attrib-
+uted to the subject is revisable because of empirical results; also, the suggestion that
+the subject is suffering from a performance failure is empirically constrained, and
+empirically testable. Memory failure can’t simply be deduced as a reason for why
+the subject fails to exhibit the correct syntax in speech; that memory failure is
+involved is itself open to empirical testing. A second related reason for the disanal-
+ogy is that a major factor in the arithmetic case is missing in the syntactic case:
+correctness. As I indicated earlier, universal dispositions to execute counting tasks
+according to deviant (finite, fuzzy, etc.) number systems aren’t indications that sub-
+jects don’t count; they would be evidence that the violated syntax isn’t as the lin-
+guist hypothesizes it.
+2.5 The Failure of a Straight Sociological Solution
+to the Rule-Following Paradox.
+As we’ve seen, individual dispositions are severely limited in their ranges; they
+don’t meet Kripke’s constraints. In other words, they can’t provide the needed psy-
+chological/individual grounding facts for every (possible) counting task, where
+grounding facts are understood as sufficient for determining correspondence facts
+such as: Every collection of objects has one and only one cardinal number. This is
+what makes it tempting to replace someone’s actual dispositions with
+counterfactually-­
+supplemented dispositions. Doing so is a very intuitively-natural
+response to the problem of limited powers because we often excuse ourselves by
+saying that if we hadn’t gotten tired, we wouldn’t have made certain mistakes, or
+that we would have (successfully) undertaken a counting task that we have other-
+wise had to decline. In this way, we abstract the characterization of our knowledge
+of counting, and our ability to undertake it, from other factors that limit our execu-
+tion of counting tasks in much the same way that the actions of Turing machines are abstracted away from limitations of physical machines, tape, and energy. This is
+what gives intuitive force to the idea that Kripke’s infinitude constraint can be met
+by a counterfactual supplementation of our actual dispositions.
+But this strategy won’t satisfy Kripke’s justification constraint. And, indeed, that
+it’s even cogent to worry about whether the supplemented dispositions can do the
+job needed shows that the dispositions—whatever they are and however they’re
+supplemented—aren’t the standards by which correct counting should be judged. If
+they were, there could be no question: whatever answer dispositions yielded would
+be understood as correct. But, regardless of what one’s dispositions to count look
+like, it seems that anyone can sensibly pose the question of whether his dispositions
+give the right answer; more strongly, it seems that it’s sensible to pose the question
+of whether one’s dispositions give the right answer. It’s bizarre for someone to say,
+when wondering if he has given the right answer after a count: “Well, it’s the right
+answer because it’s the answer I was disposed to give.”32
+This invites looking elsewhere for the standards by which correct counting is to
+be judged. Contemporary scientific practice, furthermore, suggests that a focus on
+the dispositions of individuals to count is, in any case, largely irrelevant because the
+ability of individuals to count is one that’s very nearly never relied on. Most of the
+counting results we have aren’t based on any individual’s capacities, but instead on
+the use of scientific theories and instruments. Call the instruments involved “calcu-
+lators.” Given the widespread use of calculators, it almost seems like the only rele-
+vant disposition that (most) individuals need is an inclination to accept results due
+to others, or due to calculators; all that’s required, that is, seems to be a disposition
+to defer. Indeed, the historical use of counting tools such as abacuses, counting
+boards, or knots on strings, indicates that something like this has been the case for
+many centuries. Our capacity to determine the numbers of many collections—and
+to estimate these numbers—doesn’t turn on anything reasonably described as the
+dispositions of individuals to count (unless, as just noted, we regard it as part of
+someone’s disposition to count that he’ll accept the results of instruments—calcula-
+tors—that other people have invented and developed).
+I stressed in Sect. 2.1, while discussing Kripke’s justification requirement, that
+individuals feel justified in their choice of methods that they use to count. This is
+even true of the (confident) child who will simply be puzzled by the adult’s claim
+that everything she does is compatible with her knowing how to quount. Kripke
+uses this phenomenological fact against the dispositional account with great suc-
+cess because any subject’s belief in his being so justified to do what he does isn’t
+satisfied by the mere recognition on his part that he’s disposed to undertake a pro-
+cess with such-and-such characteristics. This phenomenological fact, coupled with additional phenomenological facts, may seem to imply that it’s social standards
+against which correct counting behavior is to be judged.
+Consider, first, that the subject’s confidence in his knowledge of counting is frail.
+Even if an individual is very confident of his abilities, the right external circum-
+stances can make him quite unsure of what he thinks he knows.33 This is not only
+because it’s a fundamental part of one’s understanding of any such task that one is
+“capable” of mistakes, and that these mistakes are seen as correctable by others or
+by instruments. It’s also because a fundamental part of one’s understanding of any
+such task is that the magnitudes of the mistakes (that one is capable of) have no
+lower limit. One can be brought to become unsure of anything one thinks one
+knows. If how one was disposed to act or respond were itself the standard of one’s
+behavior, this insecurity would make no sense. And this apparently shows that the
+standards in question are external to any single individual, and located in the people
+around that individual—in her community.
+Indeed, it can be suggested that the “normative” elements that Kripke mentions
+as part of the phenomenology, and that bear so negatively on the dispositionalist
+response, namely that (as cited in footnote 26), “Normally, when we consider a
+mathematical rule such as addition, we think of ourselves as guided in our applica-
+tion of it to each new instance,” and “I follow directions,” point pretty unequivocally
+towards a large part of our impression of being guided in the case of counting being
+that we feel we have grasped a rule that others have taught us. That is, that it’s part
+of the phenomenology that the source of our confidence in what we do is that we
+take ourselves to have learned it correctly (from others). And this explains why
+experiments can be so easily designed that undercut this confidence. Everyone else
+isn’t agreeing with me; and one possibility is that I haven’t learned what I thought I
+learned—or that I’ve made a mistake—or worse, that I’m now experiencing the
+psychological effects of a medical condition.
+The location of standards in the (dispositions of the) community one belongs to
+will also explain the result of a thought experiment, say, where someone becomes
+conscious of her subpersonal source of her counting ability. Suppose she suddenly
+starts to see bright red visualizations of numerals that are associated one-by-one
+with each object in a collection she’s counting, and where the last one to so be asso-
+ciated with an item is the number she feels an urge to utter as the number of the
+collection.34 The natural reaction to this change in one’s (conscious) psychology is
+the fear that perhaps the answers so urged aren’t justified. This fear arises because
+of the apparent detachment of the urge-mechanism from the way we think of our-
+selves as having learned how to count. We learned it from others; but how can we be
+sure that the urge we’ve now discovered to be operative in us conforms to what
+we’re supposed to have learned?
+These considerations invite a straight sociological solution to the rule-following
+paradox. There is a pattern of grounding facts that indicates that the child is count-
+ing, and not quounting, but it’s found in the collective dispositions of the entire
+society within which that child has learned to count. Kripke (1982, 111) raises this
+option in passing, and notes that such a theory “would be open to at least some of
+the same criticisms as the original [individual-disposition theory.]”
+Indeed, the straight sociological solution fails to satisfy Kripke’s three con-
+straints in exactly the same ways that the individual-disposition theory fails to do so.
+The infinitude constraint: The collective disposition of an entire community—how-
+soever that’s defined in terms of collections of individual dispositions and
+collectively-­
+available instruments—is still limited in its range, and still capable of
+performance deviations from correctly-applied counting events. This is true even of
+our contemporary community—with its powerful computing instruments.
+Counterfactual supplementation of the actual dispositions of the community faces
+the same obstacles it faced in the individual case. The justification constraint: A
+description of the dispositions of the community at a time doesn’t indicate why that
+community is justified in computing new cases of counting the way it does—that by
+virtue of its (collective) dispositions the counting-concept it exhibits in the new case
+should be taken to be the same one that it previously exhibited in earlier cases. We
+do not think—even when we conceptualize counting tasks as ones we undertake
+collectively—that the way we do it is (by definition) the way it should have been
+done, given the way the community-practices were understood to operate previ-
+ously. Finally, the mistake constraint: a collective solution offers no logical space
+for the required possibility of there being mistakes in calculation, not just by indi-
+viduals, but even by an entire community. Attempts to meet Kripke’s mistake
+requirement for collective dispositions are open to the same question-begging con-
+cerns that were discussed in Sect. 2.3.
+2.6 Assertability Conditions, Not Truth Conditions.
+Let’s turn, therefore, to Kripke’s Wittgensteinian sceptical solution. A sceptical
+solution (Kripke (1982, 66)) concedes “that the sceptic’s negative assertions are
+unanswerable,” that is, it concedes that there is no pattern of grounding facts that
+can be used to answer the question of whether a subject is counting or quounting.
+Wittgenstein’s solution (so Kripke argues) is to desert “truth conditions” for sen-
+tences about a subject’s understanding of numeration statements, and indeed “truth
+conditions” altogether. Because there is no pattern of grounding facts for someone’s
+understanding of true sentences (about numeration) that can meet Kripke’s three
+requirements, there is nothing that determines necessary and sufficient truth condi-
+tions for sentences about a subject’s understanding those (numeration) statements. Instead, one substitutes “assertability conditions.” “Assertability conditions” are the
+giving of conditions for when one is licensed or entitled—in a community—to
+assert (or deny) of oneself, or of others, that they understand counting. It’s built into
+the notion of assertability conditions that a person belongs to a community in which
+such conditions are (recognized to be) in place.35
+Kripke suggests that the assertability conditions for A’s entitlement to the claim
+that he means addition by ‘plus’ is that (roughly) he’s confident that he can give
+correct answers to new cases, subject to correction by others. And that he’s also
+entitled (Kripke 1982, 90), “again provisionally and subject to correction by oth-
+ers,” to judge a new response by someone else as correct if that response is the same
+response that he’s inclined to give. A denial that another understands counting is
+entitled if that person’s answers deviate from one’s own, and a denial of one’s own
+understanding is entitled if one experiences insecurity about what the answers are or
+about how one is to go about finding them. Kripke (1982, 96) stresses that such
+assertability conditions have a point in our society because (most) individuals in our
+society have similar dispositions.
+As indicated above, “the community” is relevant in two ways to these suggested
+assertability conditions. First, a reference to the community occurs in the statement
+of the assertability conditions themselves: We are taken, that is, to recognize the
+provisional nature of our dispositions—that it’s legitimate for others to correct us.
+Second, the community is relevant because what’s on offer are assertability condi-
+tions; and assertability conditions themselves only make sense in the context of a
+community because they rely crucially on the notion of entitlement or license in a community to assert something or to deny it. Such concerns with entitlement or
+license lapse as relevant for isolated persons outside a community—what I’ll call
+Robinson Crusoes.
+According to Kripke’s (1982, 86–88) interpretation of Wittgenstein, the incoher-
+ence of a lonely rule-following Robinson Crusoe is a corollary of the fact that such
+an isolated figure can’t function in a context with only assertability conditions.
+When he takes himself to be counting, he acts “unhesitatingly but blindly” (Kripke
+(1982, 87), italics his). The sceptical paradox tells us that if we restrict our attention
+to Robinson Crusoe alone, there are (Kripke (1982, 89)) “no truth conditions or
+facts in virtue of which it can be the case that he accords with his past intentions or
+not.” Thus, there is no difference between Crusoe thinking he’s following a rule and
+his actually following that rule; and therefore the idea collapses that one can cor-
+rectly or incorrectly follow a rule that one previously intended to follow. As
+Wittgenstein (1958, § 202), writes:
+"To think one is obeying a rule is not to obey a rule. Hence it is not possible to obey a rule
+‘privately’; otherwise thinking one was obeying a rule would be the same thing as obeying it".
+Kripke (1982, 110) stresses that it doesn’t follow that a Robinson Crusoe can’t be
+described as following rules (for counting) correctly or incorrectly; it’s that for
+someone to describe Crusoe this way requires that person to treat Crusoe as belong-
+ing to his (the describer’s) community.
+Notice how the failure to provide a ground for Kripke’s second, and especially
+third, requirements on any solution to the rule-following paradox, when restricted to
+the dispositions of the individual subject, is brought directly against the suggestion
+that a Robinson Crusoe can—independently of a community—count. Notice also
+Kripke’s suggestion, that when we judge a Robinson Crusoe is counting, we incor-
+porate him into our community (and apply our assertability conditions, with our
+accompanying standards), follows directly from this being the only way that the
+required notions of justification and mistake (provided by Kripke’s Wittgensteinian
+assertability-conditions response to the paradox) are enabled to operate.36
+Final Remarks Kripke’s masterful exposition leaves most readers with the strong
+impression that the logical contours of this problem area force Kripke’s sceptical
+community solution to the rule-following paradox. Kripke’s three constraints on
+grounding facts arise from simple observations about our rule-following practices
+and those constraints pretty plainly rule out (straight) dispositional solutions—as
+this chapter has shown. In turn, correspondence facts for our assertions are under-
+mined, not by metaphysical results that directly undercut the capacity of our asser-
+tions to describe (or misdescribe) what’s out there, but instead because we lack the
+resources to make our assertions so correspond. The point, to use the counting-­
+example, isn’t anti-Platonistic—that there isn’t a successor function. It’s that the subject’s ways of thinking and speaking about that function are undermined by the
+absence of the needed grounding facts. The absence of correspondence facts then
+follows: the mental items of the subject or of her language can’t correspond to what
+we (pre-theoretically) take them to correspond to because a subject is unable to
+mean her sentences or thoughts to so correspond. (This is an extremely important
+theme that arises again in later chapters—specifically in Chap. 4, which is focused
+on the Lewisian denial that correspondence facts are based solely on the subject’s
+resources.)
+The absence of correspondence (given natural assumptions about the properties
+of the truth idiom) in turn undermines truth-conditional analyses of our assertional
+practices, and this requires their replacement by an assertability-conditions analy-
+sis. Natural psychological facts, finally, about our incapacity to place standards on
+ourselves (ones that require us to determine all by ourselves whether we meet or
+don’t meet them) force the intrusion of community standards to make rule following
+cogent. The dialectic just rehearsed is very compelling.
+The dialectic is also very broad in scope. It’s couched in terms of arithmetical
+functions—where “following a rule” most naturally seems to apply. But, as Kripke
+notes, the dialectic is equally compelling for “meaning to” apply a word or use a
+concept or just meaning to do what one did earlier—all cases where rules (strictly
+speaking) needn’t be operative.
+I show in the succeeding chapters of this book how to deflect these conclusions.
