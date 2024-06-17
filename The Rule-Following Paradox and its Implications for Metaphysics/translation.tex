@@ -1,5 +1,7 @@
 \documentclass[11pt]{book}
 
+\usepackage{graphicx}
+\usepackage{eso-pic}
 \usepackage{polyglossia}
 \setdefaultlanguage[indentfirst=false,forceheadingpunctuation=false]{russian}
 \setotherlanguages{english}
@@ -9,12 +11,17 @@
 \setmainfont{Times New Roman}
 \newfontfamily\cyrillicfont{Times New Roman}[Script=Cyrillic, Ligatures=TeX]
 
-\title{Парадокс следования правилам и его последствия для метафизики}
+\title{Парадокс следования правилам и метафизика}
 \author{Джоди Аззуни}
 \date{2017}
 \begin{document}
 
-\maketitle
+\AddToShipoutPictureBG*{\includegraphics[width=\paperwidth]{title.png}}
+
+\null
+    \thispagestyle{empty}%
+    \addtocounter{page}{-1}%
+    \newpage
 
 \tableofcontents
 
